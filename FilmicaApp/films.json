@@ -1,0 +1,2001 @@
+{
+   "page":1,
+   "total_results":10000,
+   "total_pages":500,
+   "results":[
+      {
+         "popularity":615.929,
+         "vote_count":2633,
+         "video":false,
+         "poster_path":"/kK6Oq4JywUNXmJ299efUkv1h6Mn.jpg",
+         "id":419704,
+         "adult":false,
+         "backdrop_path":"/5BwqwxMEjeFtdknRV792Svo0K1v.jpg",
+         "original_language":"en",
+         "original_title":"Ad Astra",
+         "genre_ids":[
+            12,
+            18,
+            9648,
+            878,
+            53
+         ],
+         "title":"Ad astra",
+         "vote_average":5.9,
+         "overview":"El futuro cercano, un tiempo en el que tanto la esperanza como la adversidad impulsan a la humanidad a mirar hacia las estrellas y más allá. Mientras un misterioso fenómeno amenaza con destruir la vida en el planeta Tierra, el astronauta Roy McBride emprende una misión a través de la inmensidad del espacio y sus muchos peligros para descubrir la verdad sobre una expedición perdida que décadas antes afrontó audazmente el vacío y el silencio en busca de lo desconocido.",
+         "release_date":"2019-09-17"
+      },
+      {
+         "popularity":386.162,
+         "vote_count":3387,
+         "video":false,
+         "poster_path":"/16G2wZAkmKqSGK3it2VPjco5oyn.jpg",
+         "id":181812,
+         "adult":false,
+         "backdrop_path":"/jOzrELAzFxtMx2I4uDGHOotdfsS.jpg",
+         "original_language":"en",
+         "original_title":"Star Wars: The Rise of Skywalker",
+         "genre_ids":[
+            28,
+            12,
+            878
+         ],
+         "title":"Star Wars: El ascenso de Skywalker",
+         "vote_average":6.5,
+         "overview":"La Resistencia sobreviviente se enfrenta a la Primera Orden una vez más mientras continúa el viaje de Rey, Finn y Poe Dameron. Con el poder y el conocimiento de las generaciones detrás de ellos, comienza la batalla final.",
+         "release_date":"2019-12-18"
+      },
+      {
+         "popularity":287.539,
+         "vote_count":188,
+         "video":false,
+         "poster_path":"/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg",
+         "id":338762,
+         "adult":false,
+         "backdrop_path":"/ocUrMYbdjknu2TwzMHKT9PBBQRw.jpg",
+         "original_language":"en",
+         "original_title":"Bloodshot",
+         "genre_ids":[
+            28,
+            18,
+            14,
+            878
+         ],
+         "title":"Bloodshot",
+         "vote_average":5.8,
+         "overview":"Ray Garrison (Vin Diesel), también conocido como Bloodshot, es resucitado por la compañía Rising Spirit Technologies a través del uso de nanotecnología. Mientras lucha por recuperar la memoria, Ray trata de volver al ser el que era antes de sufrir el accidente que dejaría amnésico. Película basada en el cómic \"Valiant\", creado por Kevin VanHook, Don Perlin y Bob Layton.",
+         "release_date":"2020-02-20"
+      },
+      {
+         "popularity":252.566,
+         "vote_count":2453,
+         "video":false,
+         "poster_path":"/b1bTpxh0lRfw7kwRrWPeMOo7jbY.jpg",
+         "id":512200,
+         "adult":false,
+         "backdrop_path":"/hreiLoPysWG79TsyQgMzFKaOTF5.jpg",
+         "original_language":"en",
+         "original_title":"Jumanji: The Next Level",
+         "genre_ids":[
+            28,
+            12,
+            35,
+            14
+         ],
+         "title":"Jumanji: Siguiente nivel",
+         "vote_average":6.8,
+         "overview":"En esta ocasión, los 'jugadores' vuelven al juego, pero sus personajes se han intercambiado entre sí, lo que ofrece un curioso plantel: los mismos héroes con distinta apariencia. Pero, ¿dónde está el resto de la gente? Los participantes sólo tienen una opción: jugar una vez más a esta peligrosa partida para descubrir qué es realmente lo que está sucediendo.",
+         "release_date":"2019-12-04"
+      },
+      {
+         "popularity":245.748,
+         "vote_count":699,
+         "video":false,
+         "poster_path":"/ya9ojfuWylP4P6iiaIaxz67Chu0.jpg",
+         "id":475303,
+         "adult":false,
+         "backdrop_path":"/6fkqwqLEcDZOEAnBBfKAniwNxtx.jpg",
+         "original_language":"en",
+         "original_title":"A Rainy Day in New York",
+         "genre_ids":[
+            35,
+            10749
+         ],
+         "title":"Día de lluvia en Nueva York",
+         "vote_average":6.7,
+         "overview":"Dos jóvenes llegan a Nueva York durante un fin de semana donde se topan con el mal tiempo y una serie de aventuras.",
+         "release_date":"2019-07-26"
+      },
+      {
+         "popularity":242.208,
+         "id":570670,
+         "video":false,
+         "vote_count":527,
+         "vote_average":7.1,
+         "title":"El hombre invisible",
+         "release_date":"2020-02-26",
+         "original_language":"en",
+         "original_title":"The Invisible Man",
+         "genre_ids":[
+            53,
+            878,
+            27
+         ],
+         "backdrop_path":"/uZMZyvarQuXLRqf3xdpdMqzdtjb.jpg",
+         "adult":false,
+         "overview":"Cecilia (Elisabeth Moss) rehace su vida tras recibir la noticia de que su exnovio, un maltratador empedernido, ha fallecido. Sin embargo, su cordura comienza a tambalearse cuando empieza tener la certeza de que en realidad sigue vivo.",
+         "poster_path":"/tWbiAwIOmo4A49O60J7U9qjfQDl.jpg"
+      },
+      {
+         "popularity":241.884,
+         "vote_count":1287,
+         "video":false,
+         "poster_path":"/A7hhUj9Fq6E6FhGsENJTCmnCmt4.jpg",
+         "id":454626,
+         "adult":false,
+         "backdrop_path":"/stmYfCUGd8Iy6kAMBr6AmWqx8Bq.jpg",
+         "original_language":"en",
+         "original_title":"Sonic the Hedgehog",
+         "genre_ids":[
+            28,
+            35,
+            878,
+            10751
+         ],
+         "title":"Sonic. La película",
+         "vote_average":7.3,
+         "overview":"Sonic, el famoso erizo azul de SEGA vivirá su primera aventura en la pantalla grande. En esta adaptación cinematográfica basada en la conocida saga de videojuegos podremos ver a los personajes icónicos de la franquicia. Su protagonista será Sonic, el erizo con la habilidad de correr a la velocidad del sonido y que, junto con sus amigos el zorro Tails y el equidna Knuckles, combaten con el malvado Doctor Eggman, que siempre está tratando de dominar el mundo y apoderarse de las esmeraldas del caos.",
+         "release_date":"2020-02-12"
+      },
+      {
+         "popularity":223.328,
+         "vote_count":2785,
+         "video":false,
+         "poster_path":"/zD7hfv8PbweRVawlabdW8kidqqf.jpg",
+         "id":39538,
+         "adult":false,
+         "backdrop_path":"/57kqAPdVJTAJ4rnDTSVDx0f1JBu.jpg",
+         "original_language":"en",
+         "original_title":"Contagion",
+         "genre_ids":[
+            18,
+            878,
+            53
+         ],
+         "title":"Contagio",
+         "vote_average":6.4,
+         "overview":"De repente, sin saber cuál es su origen, aunque todo hace sospechar que comienza con el viaje de una norteamericana a un casino de Hong Kong, un virus mortal comienza a propagarse por todo el mundo. En pocos días, la enfermedad empieza a diezmar a la población. El contagio se produce por mero contacto entre los seres humanos. Un thriller realista y sin efectos especiales sobre los efectos de una epidemia.",
+         "release_date":"2011-09-08"
+      },
+      {
+         "popularity":202.712,
+         "vote_count":14,
+         "video":false,
+         "poster_path":"/iaTW57RK87v7ZrGkLKVofNH9YOr.jpg",
+         "id":505951,
+         "adult":false,
+         "backdrop_path":"/cIXnYsJF0pxuRJabHpTTl1jckcw.jpg",
+         "original_language":"ta",
+         "original_title":"கண்ணும் கண்ணும் கொள்ளையடித்தால்",
+         "genre_ids":[
+            35,
+            18,
+            10749
+         ],
+         "title":"கண்ணும் கண்ணும் கொள்ளையடித்தால்",
+         "vote_average":6.1,
+         "overview":"",
+         "release_date":"2020-02-28"
+      },
+      {
+         "popularity":189.104,
+         "vote_count":3059,
+         "video":false,
+         "poster_path":"/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg",
+         "id":330457,
+         "adult":false,
+         "backdrop_path":"/xJWPZIYOEFIjZpBL7SVBGnzRYXp.jpg",
+         "original_language":"en",
+         "original_title":"Frozen II",
+         "genre_ids":[
+            12,
+            16,
+            10751
+         ],
+         "title":"Frozen 2",
+         "vote_average":7.1,
+         "overview":"¿Por qué nació Elsa con poderes mágicos? La respuesta le está llamando y amenaza su reino. Junto con Anna, Kristoff, Olaf y Sven emprenderá un viaje peligroso e inolvidable. En 'Frozen: El Reino del Hielo', Elsa temía que sus poderes fueran demasiado para el mundo. En 'Frozen 2', deseará que sean suficientes.",
+         "release_date":"2019-11-20"
+      },
+      {
+         "popularity":176.872,
+         "vote_count":10150,
+         "video":false,
+         "poster_path":"/v0eQLbzT6sWelfApuYsEkYpzufl.jpg",
+         "id":475557,
+         "adult":false,
+         "backdrop_path":"/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
+         "original_language":"en",
+         "original_title":"Joker",
+         "genre_ids":[
+            80,
+            18,
+            53
+         ],
+         "title":"Joker",
+         "vote_average":8.2,
+         "overview":"Arthur Fleck es un hombre ignorado por la sociedad, cuya motivación en la vida es hacer reír. Pero una serie de trágicos acontecimientos le llevarán a ver el mundo de otra forma. Película basada en Joker, el popular personaje de DC Comics y archivillano de Batman, pero que en este film toma un cariz más realista y oscuro.",
+         "release_date":"2019-10-02"
+      },
+      {
+         "popularity":165.193,
+         "vote_count":3491,
+         "video":false,
+         "poster_path":"/AuGiPiGMYMkSosOJ3BQjDEAiwtO.jpg",
+         "id":530915,
+         "adult":false,
+         "backdrop_path":"/cqa3sa4c4jevgnEJwq3CMF8UfTG.jpg",
+         "original_language":"en",
+         "original_title":"1917",
+         "genre_ids":[
+            28,
+            18,
+            53,
+            10752
+         ],
+         "title":"1917",
+         "vote_average":8,
+         "overview":"Nos encontramos en el año 1917. La Guerra Mundial amenazaba con cambiar, para siempre, el orden mundial. Ante la amenaza que se cernía, Estados Unidos decidió entrar en el conflicto con el objetivo de desequilibrar la balanza que caracterizaba a la contienda.",
+         "release_date":"2019-12-25"
+      },
+      {
+         "popularity":152.96,
+         "id":495764,
+         "video":false,
+         "vote_count":1537,
+         "vote_average":6.9,
+         "title":"Aves de Presa (y la Fantabulosa Emancipación de Harley Quinn)",
+         "release_date":"2020-02-05",
+         "original_language":"en",
+         "original_title":"Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+         "genre_ids":[
+            28,
+            80,
+            35
+         ],
+         "backdrop_path":"/2s1ofreBI8EFzIyL3SQrLRqO5Zx.jpg",
+         "adult":false,
+         "overview":"Después de separarse de Joker, Harley Quinn y otras tres heroínas (Canario Negro, Cazadora y Renée Montoya) unen sus fuerzas para salvar a una niña (Cassandra Cain) del malvado rey del crimen Máscara Negra.",
+         "poster_path":"/4GCqF17I2ST5M8iSkwh1jwqvi7F.jpg"
+      },
+      {
+         "popularity":151.713,
+         "vote_count":5443,
+         "video":false,
+         "poster_path":"/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
+         "id":496243,
+         "adult":false,
+         "backdrop_path":"/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+         "original_language":"ko",
+         "original_title":"기생충",
+         "genre_ids":[
+            35,
+            18,
+            53
+         ],
+         "title":"Parásitos",
+         "vote_average":8.5,
+         "overview":"Tanto Gi Taek como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo, empieza a recibir clases particulares en casa de Park, las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
+         "release_date":"2019-05-30"
+      },
+      {
+         "popularity":143.002,
+         "id":614375,
+         "video":false,
+         "vote_count":4,
+         "vote_average":9.6,
+         "title":"F#*@BOIS",
+         "release_date":"2019-08-02",
+         "original_language":"tl",
+         "original_title":"F#*@BOIS",
+         "genre_ids":[
+            18
+         ],
+         "backdrop_path":null,
+         "adult":false,
+         "overview":"",
+         "poster_path":"/dRCip3nvvHd5jW5E0GrjBsk0OX1.jpg"
+      },
+      {
+         "popularity":134.909,
+         "vote_count":2695,
+         "video":false,
+         "poster_path":"/ewGhwS8dbAfFDJBEpbsWOuwS4Ov.jpg",
+         "id":7451,
+         "adult":false,
+         "backdrop_path":"/gNI9gwuzVEnDYylNvMrMLcS7IzB.jpg",
+         "original_language":"en",
+         "original_title":"xXx",
+         "genre_ids":[
+            28,
+            12,
+            53
+         ],
+         "title":"xXx",
+         "vote_average":5.9,
+         "overview":"Xander Cage es XXX, un antiguo ganador de X-Games y atleta profesional de deportes de extremo, que sobrevive vendiendo videos de sus increíbles hazañas, las cuales hacen emitir adrenalina por todo el cupero. Pero después de incontables encuentros con la ley, su mundo está a punto de tomar un rumbo aún más extremo... Porque Xander no sabe que ha sido \"espiado\" por Augustus Gibbons, un agente veterano de la Agencia Nacional de Seguridad que se encuentra en una desesperada situación en la distante ciudad de Praga, en donde su operativo secreto ha sido asesinado por una pandilla de mafiosos con un estilo muy propio, que se llaman así mismos Anarchy 99, encabezados por el brutal ex-Comandante del Ejército Ruso Yorgi.",
+         "release_date":"2002-08-09"
+      },
+      {
+         "popularity":132.397,
+         "vote_count":250,
+         "video":false,
+         "poster_path":"/tHWeWBBOlkPYdlZcjSKeToQvgZg.jpg",
+         "id":508439,
+         "adult":false,
+         "backdrop_path":"/xFxk4vnirOtUxpOEWgA1MCRfy6J.jpg",
+         "original_language":"en",
+         "original_title":"Onward",
+         "genre_ids":[
+            12,
+            16,
+            35,
+            14,
+            10751
+         ],
+         "title":"Onward",
+         "vote_average":8,
+         "overview":"Ambientado en un mundo de fantasía suburbana, dos hermanos elfos adolescentes, Ian y Barley Lightfood, se embarcan en una aventura en la que se proponen descubrir si existe aún algo de magia en el mundo que les permita pasar un último día con su padre, que falleció cuando ellos eran aún muy pequeños como para poder recordarlo.",
+         "release_date":"2020-02-29"
+      },
+      {
+         "popularity":128.84,
+         "vote_count":58,
+         "video":false,
+         "poster_path":"/im0jKiVtVyxynKVnzOyd6efbqYE.jpg",
+         "id":664413,
+         "adult":false,
+         "backdrop_path":"/nVAJWMwmPTmwhQLcsIFYvU0C9JI.jpg",
+         "original_language":"es",
+         "original_title":"365 Dni",
+         "genre_ids":[
+            18,
+            10749
+         ],
+         "title":"365 dni",
+         "vote_average":5.9,
+         "overview":"Massimo es miembro de la mafia siciliana y Laura es una directora de ventas. Ella no espera que un viaje a Sicilia salve su relación, pero Massimo la secuestrará durante 365 días para que se enamore de él.",
+         "release_date":"2020-02-07"
+      },
+      {
+         "popularity":127.218,
+         "vote_count":8873,
+         "video":false,
+         "poster_path":"/u4G8EkiIBZYx0wEg2xDlXZigTOZ.jpg",
+         "id":920,
+         "adult":false,
+         "backdrop_path":"/a1MlbLBk5Sy6YvMbSuKfwGlDVlb.jpg",
+         "original_language":"en",
+         "original_title":"Cars",
+         "genre_ids":[
+            12,
+            16,
+            35,
+            10751
+         ],
+         "title":"Cars",
+         "vote_average":6.7,
+         "overview":"El aspirante a campeón de carreras Rayo McQueen está sobre la vía rápida al éxito, la fama y todo lo que él había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.",
+         "release_date":"2006-06-08"
+      },
+      {
+         "popularity":125.497,
+         "vote_count":2879,
+         "video":false,
+         "poster_path":"/7scJ3fVmwdSpGG87wvxH3kk0RPc.jpg",
+         "id":546554,
+         "adult":false,
+         "backdrop_path":"/cjTQSwcsfVdirSFSHNBXRGkxmWa.jpg",
+         "original_language":"en",
+         "original_title":"Knives Out",
+         "genre_ids":[
+            35,
+            9648
+         ],
+         "title":"Puñales por la espalda",
+         "vote_average":7.8,
+         "overview":"Cuando el renombrado novelista de misterio Harlan Thrombey es encontrado muerto en su mansión justo después de su 85 cumpleaños, el inquisitivo y cortés detective Benoit Blanc es misteriosamente reclutado para investigar. Se moverá entre una red de pistas falsas y mentiras interesadas para tratar de descubrir la verdad tras la prematura muerte del escritor.",
+         "release_date":"2019-11-27"
+      },
+      {
+         "popularity":111.961,
+         "vote_count":10,
+         "video":false,
+         "poster_path":"/o1D5kEPPOGReel6CipiKOY5tPJt.jpg",
+         "id":642657,
+         "adult":false,
+         "backdrop_path":"/eUFN7zot3iRSm19xKxxnm6Vxeot.jpg",
+         "original_language":"id",
+         "original_title":"Milea: Suara dari Dilan",
+         "genre_ids":[
+            18,
+            10749
+         ],
+         "title":"Milea: Suara dari Dilan",
+         "vote_average":5.6,
+         "overview":"",
+         "release_date":"2020-02-13"
+      },
+      {
+         "popularity":110.452,
+         "vote_count":3,
+         "video":false,
+         "poster_path":"/ef8k2EhmaU1CyhhnaBaIgnoA1JE.jpg",
+         "id":622327,
+         "adult":false,
+         "backdrop_path":"/nS2Z88iDoPuWHfKn79f9rlv1aL4.jpg",
+         "original_language":"tl",
+         "original_title":"The Panti Sisters",
+         "genre_ids":[
+            35,
+            18,
+            10749
+         ],
+         "title":"The Panti Sisters",
+         "vote_average":2.7,
+         "overview":"",
+         "release_date":"2019-09-13"
+      },
+      {
+         "popularity":108.671,
+         "vote_count":55,
+         "video":false,
+         "poster_path":"/rmflsMjk4lxx2foNUtd1OKWv6vB.jpg",
+         "id":514847,
+         "adult":false,
+         "backdrop_path":"/4MNaZCQI8dSeIQlhMxkjxqPrCvg.jpg",
+         "original_language":"en",
+         "original_title":"The Hunt",
+         "genre_ids":[
+            28,
+            27,
+            53
+         ],
+         "title":"La caza",
+         "vote_average":6.6,
+         "overview":"La historia sigue a un grupo de personas que son perseguidos y cazados uno por uno por un grupo de ricos de élite por deporte, por simple diversión.",
+         "release_date":"2020-03-11"
+      },
+      {
+         "popularity":106.691,
+         "vote_count":1955,
+         "video":false,
+         "poster_path":"/kFkZFPBU7vnDDu4m9eOgk7w9W7O.jpg",
+         "id":359724,
+         "adult":false,
+         "backdrop_path":"/n3UanIvmnBlH531pykuzNs4LbH6.jpg",
+         "original_language":"en",
+         "original_title":"Ford v Ferrari",
+         "genre_ids":[
+            28,
+            18
+         ],
+         "title":"Le Mans '66",
+         "vote_average":7.8,
+         "overview":"Se centra en un excéntrico y decidido equipo americano de ingenieros y diseñadores liderados por el visionario automovilístico Carroll Shelby (Damon) y su conductor británico Ken Miles (Bale). Henry Ford II y Lee Iacocca les dan la misión de construir desde cero un nuevo automóvil con el fin de derrocar el dominio de Ferrari en el Campeonato del Mundo de Le Mans de 1966.",
+         "release_date":"2019-11-13"
+      },
+      {
+         "popularity":104.239,
+         "vote_count":371,
+         "video":false,
+         "poster_path":"/mAWBfTDAmfpvQGMVFuzuVl49N1P.jpg",
+         "id":449924,
+         "adult":false,
+         "backdrop_path":"/ekP6EVxL81lZ4ivcqPsoZ72rY0h.jpg",
+         "original_language":"cn",
+         "original_title":"葉問4",
+         "genre_ids":[
+            28,
+            18,
+            36
+         ],
+         "title":"Ip Man 4",
+         "vote_average":6,
+         "overview":"El maestro de Kung Fu viaja a los Estados Unidos, donde uno de sus estudiantes ha molestado a la comunidad de artes marciales al abrir una escuela de Wing Chun.",
+         "release_date":"2019-12-20"
+      },
+      {
+         "popularity":101.499,
+         "vote_count":1769,
+         "video":false,
+         "poster_path":"/k7PuHoj2oE7nEHExwliF2FSXFnr.jpg",
+         "id":290859,
+         "adult":false,
+         "backdrop_path":"/riTANvQ8GKmQbgtC1ps3OfkU43A.jpg",
+         "original_language":"en",
+         "original_title":"Terminator: Dark Fate",
+         "genre_ids":[
+            28,
+            878
+         ],
+         "title":"Terminator: Destino oscuro",
+         "vote_average":6.3,
+         "overview":"Sarah Connor une todas sus fuerzas con una mujer cyborg para proteger a una joven de un extremadamente poderoso y nuevo Terminator.",
+         "release_date":"2019-10-23"
+      },
+      {
+         "popularity":100.682,
+         "vote_count":0,
+         "video":false,
+         "poster_path":"/mew5d3ZzFfVxFyPZ8ydJb18UOpr.jpg",
+         "id":625985,
+         "adult":false,
+         "backdrop_path":"/j4B8G5yKRnTO655uvpQBXt4Ok08.jpg",
+         "original_language":"ja",
+         "original_title":"仮面ライダージオウNEXT TIME：ゲイツ、マジェスティ",
+         "genre_ids":[
+            28,
+            12,
+            878
+         ],
+         "title":"仮面ライダージオウNEXT TIME：ゲイツ、マジェスティ",
+         "vote_average":0,
+         "overview":"",
+         "release_date":"2020-04-22"
+      },
+      {
+         "popularity":100.479,
+         "vote_count":487,
+         "video":false,
+         "poster_path":"/8C2AQNvg63t1Z8nWfZwAMYMa5ZS.jpg",
+         "id":581600,
+         "adult":false,
+         "backdrop_path":"/ftODZXaXpWtV5XFD8gS9n9KwLDr.jpg",
+         "original_language":"en",
+         "original_title":"Spenser Confidential",
+         "genre_ids":[
+            28,
+            35,
+            53
+         ],
+         "title":"Spenser: confidencial",
+         "vote_average":6.6,
+         "overview":"Spenser, un expatrullero de Boston que acaba de salir de prisión, y Hawk, un aspirante a luchador, se alian para descubrir la verdad detrás de la muerte de dos agentes de policía.",
+         "release_date":"2020-03-06"
+      },
+      {
+         "popularity":95.985,
+         "vote_count":256,
+         "video":false,
+         "poster_path":"/5vz4biYDRFWlWn7aAdOzpQzmVkA.jpg",
+         "id":522212,
+         "adult":false,
+         "backdrop_path":"/4x2AKefQtj8TmzxyRJEEdAayj1V.jpg",
+         "original_language":"en",
+         "original_title":"Just Mercy",
+         "genre_ids":[
+            18,
+            36
+         ],
+         "title":"Cuestión de justicia",
+         "vote_average":8.2,
+         "overview":"Cuenta la historia real del joven abogado Bryan Stevenson (Jordan) y de su histórica batalla por la justicia. Después de licenciarse en Harvard, Bryan recibe ofertas de trabajo muy lucrativas. Pero él prefiere poner rumbo a Alabama para defender a personas que han sido condenadas erróneamente o que carecían de recursos para tener una representación legal adecuada, y lo hace con el apoyo de la activista local Eva Ansley (Larson). Uno de sus primeros y más turbulentos casos es el de Walter McMillian (Foxx), que en 1987 fue sentenciado a la pena muerte por el asesinato de una chica de 18 años, a pesar de que las pruebas demostraban ostensiblemente su inocencia. En los años posteriores, Bryan se ve envuelto en un laberinto de maniobras legales y políticas y de un racismo abierto y descarado mientras lucha por Walter y otros como él, a pesar de tenerlo todo en su contra, incluido el sistema legal.",
+         "release_date":"2019-12-25"
+      },
+      {
+         "popularity":91.347,
+         "vote_count":17105,
+         "video":false,
+         "poster_path":"/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg",
+         "id":299536,
+         "adult":false,
+         "backdrop_path":"/bOGkgRGdhrBYJSLpXaxhXVstddV.jpg",
+         "original_language":"en",
+         "original_title":"Avengers: Infinity War",
+         "genre_ids":[
+            28,
+            12,
+            878
+         ],
+         "title":"Vengadores: Infinity War",
+         "vote_average":8.3,
+         "overview":"El todopoderoso Thanos ha despertado con la promesa de arrasar con todo a su paso, portando el Guantelete del Infinito, que le confiere un poder incalculable. Los únicos capaces de pararle los pies son los Vengadores y el resto de superhéroes de la galaxia, que deberán estar dispuestos a sacrificarlo todo por un bien mayor. Capitán América e Ironman deberán limar sus diferencias, Black Panther apoyará con sus tropas desde Wakanda, Thor y los Guardianes de la Galaxia e incluso Spider-Man se unirán antes de que los planes de devastación y ruina pongan fin al universo. ¿Serán capaces de frenar el avance del titán del caos?",
+         "release_date":"2018-04-25"
+      },
+      {
+         "popularity":85.606,
+         "vote_count":350,
+         "video":false,
+         "poster_path":"/mWZZylb2f6IuZUMdWbvK5dC1yaW.jpg",
+         "id":200085,
+         "adult":false,
+         "backdrop_path":"/yRrPRCCEGKt8drF37K4o8Mk8Gpq.jpg",
+         "original_language":"ko",
+         "original_title":"감기",
+         "genre_ids":[
+            28,
+            18
+         ],
+         "title":"Virus",
+         "vote_average":7.2,
+         "overview":"El distrito surcoreano de Bundang-gu debe enfrentarse a una repentina proliferación del virus H5N1, enfermedad que mata a sus víctimas tras 36 horas de alojarse en el organismo. El virus, transmitido por vía aérea, llega originalmente al distrito en un contenedor utilizado para transportar inmigrantes de forma ilegal. Kang Ji-goo conocerá en medio del caos a la hermosa Kim In-hae y a su hija, y deberán sobrevivir a esta terrible y mortal amenaza.",
+         "release_date":"2013-08-14"
+      },
+      {
+         "popularity":82.034,
+         "vote_count":26,
+         "video":false,
+         "poster_path":"/dql1WvlOdEgzQ0Ub05NqHmW7D4y.jpg",
+         "id":665251,
+         "adult":false,
+         "backdrop_path":"/mluxnTYUSTRh7GtpZmkGAh9L6zQ.jpg",
+         "original_language":"ja",
+         "original_title":"オルタード・カーボン：リスリーブド",
+         "genre_ids":[
+            16,
+            80,
+            18,
+            14,
+            9648,
+            878
+         ],
+         "title":"Altered Carbon: Reenfundados",
+         "vote_average":5.9,
+         "overview":"El spin-off, ambientado en el universo de Altered Carbon, en el que gracias a unas baterías implantadas en la nuca, se pueden archivar la memoria y la personalidad, haciendo posible el cambiar a nuevos cuerpos, conocidos como fundas. Esta vez, nos traslada al planeta Latimer. Takeshi Kovacs tiene una nueva misión como parte de los comandos: proteger a una tatuadora de los miembros de la yakuza. Al mismo tiempo, trata de investigar la misteriosa muerte de uno de los jefes de la organización criminal japonesa. Para acompañarle en su misión, tiene a su lado como compañera a una Comando bastante pragmática.",
+         "release_date":"2020-03-19"
+      },
+      {
+         "popularity":78.049,
+         "vote_count":1161,
+         "video":false,
+         "poster_path":"/chhwNdkN4n2oIEjz736HPjTJg1h.jpg",
+         "id":38700,
+         "adult":false,
+         "backdrop_path":"/upUy2QhMZEmtypPW3PdieKLAHxh.jpg",
+         "original_language":"en",
+         "original_title":"Bad Boys for Life",
+         "genre_ids":[
+            28,
+            80,
+            53
+         ],
+         "title":"Bad Boys for Life",
+         "vote_average":6.3,
+         "overview":"Continuación de las aventuras de los detectives Mike Lowrey y Marcus Burnett de Miami, atrapados entre persecuciones de coches y explosiones.",
+         "release_date":"2020-01-15"
+      },
+      {
+         "popularity":75.719,
+         "vote_count":423,
+         "video":false,
+         "poster_path":"/kKBHCrorQRfFMksOXLq38yyDIJK.jpg",
+         "id":431693,
+         "adult":false,
+         "backdrop_path":"/qlYxtqVfu2LOdvYMMDPCSGX0Oz0.jpg",
+         "original_language":"en",
+         "original_title":"Spies in Disguise",
+         "genre_ids":[
+            28,
+            12,
+            16,
+            35
+         ],
+         "title":"Espías con disfraz",
+         "vote_average":7.3,
+         "overview":"Puede decirse que el superespía Lance Sterling y el científico Walter Beckett no tienen nada que ver entre sí: Lance es relajado, educado y caballeroso. Walter lo opuesto. Lo que le falta a Walter de habilidades sociales lo compensa con una dosis extra de ingenio e inventiva, con los que crea fascinantes artilugios que Lance usa en sus épicas misiones. Pero cuando los acontecimientos sorprenden con un giro inesperado, Walter y Lance tendrán que confiar el uno en el otro… Y todo el mundo estará en peligro.",
+         "release_date":"2019-12-24"
+      },
+      {
+         "popularity":74.631,
+         "vote_count":1735,
+         "video":false,
+         "poster_path":"/mIUGQ89isLNj4IRujDsXrZFIZCQ.jpg",
+         "id":338967,
+         "adult":false,
+         "backdrop_path":"/3ghImmHdp4RnC3UkL6hpLayclnb.jpg",
+         "original_language":"en",
+         "original_title":"Zombieland: Double Tap",
+         "genre_ids":[
+            28,
+            35,
+            27
+         ],
+         "title":"Zombieland: Mata y remata",
+         "vote_average":6.9,
+         "overview":"En esta secuela y empleando el característico sentido del humor del que hizo gala \"Zombieland\", el grupo de protagonistas tendrá que viajar desde la Casa Blanca hasta el corazón de los Estados Unidos, sobreviviendo a nuevas clases de muertos vivientes que han evolucionado desde lo sucedido hace algunos años, así como a algunos supervivientes humanos rezagados. Pero, por encima de todo, tendrán que tratar de soportar los inconvenientes de convivir entre ellos.",
+         "release_date":"2019-10-09"
+      },
+      {
+         "popularity":72.762,
+         "id":522162,
+         "video":false,
+         "vote_count":481,
+         "vote_average":6.8,
+         "title":"Midway - Batalla en el Pacifico",
+         "release_date":"2019-11-06",
+         "original_language":"en",
+         "original_title":"Midway",
+         "genre_ids":[
+            10752,
+            36,
+            28,
+            18
+         ],
+         "backdrop_path":"/xjP88DFPCQ81mbZHXFscyYtGskT.jpg",
+         "adult":false,
+         "overview":"1942, Segunda Guerra Mundial. Después del devastador ataque sorpresa que destruyó Pearl Harbor, la Armada Imperial Japonesa se prepara para un nuevo ataque. Pero el Almirante Nimitz  y Dick Best, el mejor piloto de la armada estadounidense, preparan un contraataque al imponente ejército japonés. Dick encabezará un ataque masivo que hará que Japón se dé cuenta de su error. Una decisión que cambió el curso de la historia para siempre. Mientras estos dos titánicos enemigos emprenden una letal batalla para cambiar el rumbo de la guerra, todas las miradas se vuelcan hacia la remota isla de Midway, donde una serie de impactantes ataques aéreos y marítimos pondrán a prueba la potencia y la fortaleza de ambas naciones.",
+         "poster_path":"/cwjJOG2LLj19pPgTOFcegUP1OtD.jpg"
+      },
+      {
+         "popularity":72.06,
+         "vote_count":5090,
+         "video":false,
+         "poster_path":"/trnyoKkkvvjZvRvCMrNDtSf25nH.jpg",
+         "id":420817,
+         "adult":false,
+         "backdrop_path":"/rVqY0Bo4Npf6EIONUROxjYAJfmD.jpg",
+         "original_language":"en",
+         "original_title":"Aladdin",
+         "genre_ids":[
+            12,
+            35,
+            14,
+            10749,
+            10751
+         ],
+         "title":"Aladdín",
+         "vote_average":7,
+         "overview":"Aladdin es un adorable pero desafortunado ladronzuelo enamorado de la hija del Sultán, la princesa Jasmine. Para intentar conquistarla, acepta el desafío de Jafar, que consiste en entrar a una cueva en mitad del desierto para dar con una lámpara mágica que le concederá todos sus deseos. Allí es donde Aladdín conocerá al Genio, dando inicio a una aventura como nunca antes había imaginado.",
+         "release_date":"2019-05-22"
+      },
+      {
+         "popularity":70.893,
+         "vote_count":5117,
+         "video":false,
+         "poster_path":"/vKSyaptSA7zZ9H8mSfaDnvyQl9k.jpg",
+         "id":466272,
+         "adult":false,
+         "backdrop_path":"/er1S5nJyDSkmy7i2KkPMBjbwK8x.jpg",
+         "original_language":"en",
+         "original_title":"Once Upon a Time… in Hollywood",
+         "genre_ids":[
+            35,
+            18,
+            53
+         ],
+         "title":"Érase una vez en… Hollywood",
+         "vote_average":7.5,
+         "overview":"Los Angeles, 1969. La estrella de televisión Rick Dalton, un actor en horas bajas especializado en westerns, y el doble de acción Cliff Booth, su mejor amigo, tratan de sobrevivir a una industria cinematográfica en constante cambio. Dalton es vecino de la joven y prometedora actriz y modelo Sharon Tate, que acaba de casarse con el prestigioso director polaco Roman Polanski…",
+         "release_date":"2019-07-25"
+      },
+      {
+         "popularity":70.35,
+         "vote_count":4245,
+         "video":false,
+         "poster_path":"/ynDDbzVge9AzuTkeyw8JcKr58Cq.jpg",
+         "id":238636,
+         "adult":false,
+         "backdrop_path":"/zWGAnbxjjwY3xFGuOeR26LGbBlG.jpg",
+         "original_language":"en",
+         "original_title":"The Purge: Anarchy",
+         "genre_ids":[
+            27,
+            53
+         ],
+         "title":"Anarchy: La noche de las bestias",
+         "vote_average":6.6,
+         "overview":"Secuela de la película The Purge. La noche de las bestias (2013).  En la película original, el gobierno de Estados Unidos permite que, durante una noche, cualquier acto vandálico sea legal. De esta forma intentan reducir el número de criminales, ya que las cárceles del país se encuentran saturadas. La idea surge de la teoría de que todo ser humano tiene maldad en su interior, maldad que en algún momento saldrá a la luz.  En esta situación, las personas que tienen dinero tienen más posibilidades que las pobres, ya que estas últimas no tienen los medios necesarios para defenderse de los que les quieran hacer daño. Así, una pregunta sale a la luz: ¿Cómo poder sobrevivir a los criminales sin convertirse en uno?",
+         "release_date":"2014-07-17"
+      },
+      {
+         "popularity":69.637,
+         "id":671,
+         "video":false,
+         "vote_count":15939,
+         "vote_average":7.8,
+         "title":"Harry Potter y la piedra filosofal",
+         "release_date":"2001-11-16",
+         "original_language":"en",
+         "original_title":"Harry Potter and the Philosopher's Stone",
+         "genre_ids":[
+            12,
+            14,
+            10751
+         ],
+         "backdrop_path":"/hziiv14OpD73u9gAak4XDDfBKa2.jpg",
+         "adult":false,
+         "overview":"Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.",
+         "poster_path":"/7xXJ15VEf7G9GdAuV1dO769yC73.jpg"
+      },
+      {
+         "popularity":69.518,
+         "vote_count":6353,
+         "video":false,
+         "poster_path":"/iKVR1ba3W1wCm9bVCcpnNvxQUWX.jpg",
+         "id":429617,
+         "adult":false,
+         "backdrop_path":"/5myQbDzw3l8K9yofUXRJ4UTVgam.jpg",
+         "original_language":"en",
+         "original_title":"Spider-Man: Far from Home",
+         "genre_ids":[
+            28,
+            12,
+            878
+         ],
+         "title":"Spider-Man: Lejos de Casa",
+         "vote_average":7.5,
+         "overview":"Peter Parker decide irse junto a Michelle Jones, Ned y el resto de sus amigos a pasar unas vacaciones a Europa después de los eventos ocurridos en Vengadores: EndGame. Sin embargo, el plan de Parker por dejar de lado sus superpoderes durante unas semanas se ven truncados cuándo es reclutado por Nick Fury para unirse a Mysterio (un humano que proviene de la Tierra 833, una dimensión del Multiverso, que tuvo su primera aparición en Doctor Strange) para luchar contra los Elementales (cuatro entes inmortales que vienen de la misma dimensión y que dominan los cuatro elementos de la Naturaleza, el fuego, el agua, el aire y la tierra) . En ese momento, Parker vuelve a ponerse el traje de Spider-Man para cumplir con  su labor.",
+         "release_date":"2019-06-28"
+      },
+      {
+         "popularity":68.997,
+         "vote_count":1446,
+         "video":false,
+         "poster_path":"/z2wBWFEQ9FE0RcjmWXz3vvSNPfT.jpg",
+         "id":331482,
+         "adult":false,
+         "backdrop_path":"/3uTxPIdVEXxHpsHOHdJC24QebBV.jpg",
+         "original_language":"en",
+         "original_title":"Little Women",
+         "genre_ids":[
+            18,
+            10749
+         ],
+         "title":"Mujercitas",
+         "vote_average":8,
+         "overview":"Amy, Jo, Beth y Meg son cuatro hermanas adolescentes que se embarcan en unas vacaciones con su madre, pero sin su padre, un evangelista itinerante. A medida que atraviesan el estado de Massachusetts, sumido en plena Guerra Civil, descubren el amor y la importancia de los lazos familiares.",
+         "release_date":"2019-12-25"
+      },
+      {
+         "popularity":68.707,
+         "vote_count":758,
+         "video":false,
+         "poster_path":"/egCHwgAZ5UWkQl6HI0Ih8u9QulF.jpg",
+         "id":458897,
+         "adult":false,
+         "backdrop_path":"/a0xTB1vBxMGt6LGG4N7k1wO9lfL.jpg",
+         "original_language":"en",
+         "original_title":"Charlie's Angels",
+         "genre_ids":[
+            28,
+            12,
+            35
+         ],
+         "title":"Los ángeles de Charlie",
+         "vote_average":6.5,
+         "overview":"Los ángeles de Charlie siempre han proporcionado servicios de seguridad e investigación a clientes privados, y ahora la agencia Townsend se ha expandido internacionalmente con las mujeres más inteligentes, valientes y mejor entrenadas a lo largo y ancho del planeta – varios equipos de ángeles guiados por otros tantos Bosleys llevando a cabo los trabajos más duros por todo el mundo. Cuando un joven ingeniero de sistemas llama la atención sobre una peligrosa tecnología, los ángeles son llamados a la acción, arriesgando sus vidas por protegernos a todos.",
+         "release_date":"2019-11-14"
+      },
+      {
+         "popularity":68.659,
+         "vote_count":244,
+         "video":false,
+         "poster_path":"/hK9Y4JWtBd2aLnob1CLonZAJ9ys.jpg",
+         "id":536869,
+         "adult":false,
+         "backdrop_path":"/4F8M02OjkfDIIBg36R5ZluLK2nU.jpg",
+         "original_language":"en",
+         "original_title":"Cats",
+         "genre_ids":[
+            35,
+            18,
+            14
+         ],
+         "title":"Cats",
+         "vote_average":4.4,
+         "overview":"En el basurero de los gatos Jélicos, una tribu de gatos deberá decidir como cada año cuál ascenderá a una nueva vida jelical. Allí conoceremos a la gata blanca Victoria (Francesca Hayward), a Old Deuteronomy (Judi Dench) que es quien decide qué gato será el elegido, además de al misterioso Mr. Mistoffelees (Laurie Davidson), al rockero Rum Tum Tugger (Jason Derulo), al refinado Bustopher Jones (James Corden), junto con Grizabella (Jennifer Hudson), Macavity (Idris Elba), Jennyanydots (Rebel Wilson), Gus (Ian McKellen) y Bombalurina (Taylor Swift). Esta película es la adaptación del famoso musical de Broadway Cats basado en la obra de Andrew Lloyd Webber, inspirada a su vez en una colección de poemas de T. S. Eliot.",
+         "release_date":"2019-12-19"
+      },
+      {
+         "popularity":68.412,
+         "vote_count":15,
+         "video":false,
+         "poster_path":"/1pnGF3bX0giCc9FFXH2CUIyE1hq.jpg",
+         "id":625489,
+         "adult":false,
+         "backdrop_path":null,
+         "original_language":"tr",
+         "original_title":"Recep İvedik 6",
+         "genre_ids":[
+            35
+         ],
+         "title":"Recep İvedik 6",
+         "vote_average":4.9,
+         "overview":"",
+         "release_date":"2019-11-07"
+      },
+      {
+         "popularity":68.344,
+         "vote_count":268,
+         "video":false,
+         "poster_path":"/62gIJdks9agqdYavMHJx3FlRXp9.jpg",
+         "id":465086,
+         "adult":false,
+         "backdrop_path":"/h4x5aN52nq78PM8zXD77THhZTB.jpg",
+         "original_language":"en",
+         "original_title":"The Grudge",
+         "genre_ids":[
+            27,
+            9648
+         ],
+         "title":"La Maldición (The Grudge)",
+         "vote_average":5.4,
+         "overview":"Después de que una joven madre asesina a su familia en su propia casa, una madre soltera y un detective intentan investigar y resolver el caso. Más tarde, descubren que la casa está maldita por un fantasma vengativo que condena a quienes entran con una muerte violenta.",
+         "release_date":"2020-01-02"
+      },
+      {
+         "popularity":68.307,
+         "id":101411,
+         "video":false,
+         "vote_count":20,
+         "vote_average":5.9,
+         "title":"23-F: la película",
+         "release_date":"2011-02-23",
+         "original_language":"es",
+         "original_title":"23-F: la película",
+         "genre_ids":[
+            36,
+            18
+         ],
+         "backdrop_path":null,
+         "adult":false,
+         "overview":"El fallido golpe de Estado del 23 de febrero de 1981, que comenzó con la toma del Congreso de los Diputados y terminó con la liberación de los parlamentarios, puso en grave riesgo la democracia española. Mientras Tejero y sus hombres mantenían como rehenes a los diputados, el Rey, desde su despacho, intentaba contener al ejército y organizar las fuerzas civiles. En medio, un complejo entramado donde Milans y Armada movían los hilos. Al fondo del escenario, España entera vivía pendiente de la radio y la televisión. \"23F\" es la historia de tres golpes: el de Milans, el de Armada y el de Tejero. El golpe fracasa cuando Tejero empieza a entender que ha sido utilizado.",
+         "poster_path":"/bI1BDEUq8k5afuWWwMqI4IZZIkW.jpg"
+      },
+      {
+         "popularity":67.859,
+         "vote_count":2512,
+         "video":false,
+         "poster_path":"/7GsM4mtM0worCtIVeiQt28HieeN.jpg",
+         "id":515001,
+         "adult":false,
+         "backdrop_path":"/agoBZfL1q5G79SD0npArSlJn8BH.jpg",
+         "original_language":"en",
+         "original_title":"Jojo Rabbit",
+         "genre_ids":[
+            35,
+            18,
+            10752
+         ],
+         "title":"Jojo Rabbit",
+         "vote_average":8.1,
+         "overview":"Jojo Rabbit es un niño viviendo en plena 2ª Guerra Mundial. Su única vía de escape es su amigo imaginario, una versión de Hitler étnicamente incorrecta que incita los ciegos ideales patrióticos del niño. Todo esto cambia cuando descubre que su madre Rosie está escondiendo a una joven judía en su ático.",
+         "release_date":"2019-10-18"
+      },
+      {
+         "popularity":67.075,
+         "vote_count":62,
+         "video":false,
+         "poster_path":"/sm8iVzA7kRp0d4BSIsgXjsSBMKV.jpg",
+         "id":556678,
+         "adult":false,
+         "backdrop_path":"/5GbkL9DDRzq3A21nR7Gkv6cFGjq.jpg",
+         "original_language":"en",
+         "original_title":"Emma.",
+         "genre_ids":[
+            35,
+            18
+         ],
+         "title":"Emma.",
+         "vote_average":7.4,
+         "overview":"Guapa, inteligente y rica, la joven Emma Woodhouse es una reina sin rival en su pequeño pueblo. Nueva adaptación de la novela de Jane Austen publicada en 1815 sobre la vida de la joven Emma",
+         "release_date":"2020-02-13"
+      },
+      {
+         "popularity":65.521,
+         "vote_count":10029,
+         "video":false,
+         "poster_path":"/rjBwhsOzHKUw2NIOrE7aMqjfe6s.jpg",
+         "id":181808,
+         "adult":false,
+         "backdrop_path":"/5Iw7zQTHVRBOYpA0V6z0yypOPZh.jpg",
+         "original_language":"en",
+         "original_title":"Star Wars: The Last Jedi",
+         "genre_ids":[
+            28,
+            12,
+            14,
+            878
+         ],
+         "title":"Star Wars: Los últimos Jedi",
+         "vote_average":7,
+         "overview":"La fuerza siente un cambio y los Maestros Jedi saben que es el momento de regresar. La galaxia se encuentra perdida y separada, y deberán unir fuerzas si no quieren que sea el fin de la paz. Con el rumor de una guerra, los pocos aliados que quedan emprenderán la búsqueda para aumentar sus aliados, mientras se enfrentan a la desconfianza y el temor de aquellos que no olvidan ni perdonan. Mundos casi olvidados, personajes misteriosos y viejas caras conocidas, una nueva aventura está a punto de comenzar para mantener la frágil supervivencia de La República, mientras se preparan para lo que está por llegar.",
+         "release_date":"2017-12-13"
+      },
+      {
+         "popularity":63.734,
+         "vote_count":13059,
+         "video":false,
+         "poster_path":"/4hOUzmButYUeON0prG3RpbqS7ag.jpg",
+         "id":11,
+         "adult":false,
+         "backdrop_path":"/4iJfYYoQzZcONB9hNzg0J0wWyPH.jpg",
+         "original_language":"en",
+         "original_title":"Star Wars",
+         "genre_ids":[
+            28,
+            12,
+            878
+         ],
+         "title":"La guerra de las galaxias. Episodio IV: Una nueva esperanza",
+         "vote_average":8.2,
+         "overview":"La princesa Leia, líder del movimiento rebelde que desea reinstaurar la República en la galaxia en los tiempos ominosos del Imperio, es capturada por las malévolas Fuerzas Imperiales, capitaneadas por el implacable Darth Vader, el sirviente más fiel del emperador. El intrépido Luke Skywalker, ayudado por Han Solo, capitán de la nave espacial \"El Halcón Milenario\", y los androides, R2D2 y C3PO, serán los encargados de luchar contra el enemigo y rescatar a la princesa para volver a instaurar la justicia en el seno de la Galaxia.",
+         "release_date":"1977-05-25"
+      },
+      {
+         "popularity":62.918,
+         "vote_count":1182,
+         "video":false,
+         "poster_path":"/zd7qy3xee9mgB0LbH4yUQt5BAE4.jpg",
+         "id":540901,
+         "adult":false,
+         "backdrop_path":"/5GynP6w2OQWSbKnCLHrBIriF4Cw.jpg",
+         "original_language":"en",
+         "original_title":"Hustlers",
+         "genre_ids":[
+            35,
+            80,
+            18,
+            53
+         ],
+         "title":"Estafadoras de Wall Street",
+         "vote_average":6.3,
+         "overview":"Cuatro estrípers de un club al que acuden adinerados ejecutivos de Wall Street idean un plan para estafar a sus clientes. Aunque consiguen su objetivo, cuando una periodista empieza a investigarlas, la avaricia y la envidia ponen en riesgo su unión, su amistad y su libertad.",
+         "release_date":"2019-09-12"
+      },
+      {
+         "popularity":62.113,
+         "vote_count":1295,
+         "video":false,
+         "poster_path":"/zC8HSq4xWsPgPDjgmlFix4VMtaD.jpg",
+         "id":423204,
+         "adult":false,
+         "backdrop_path":"/7uCHvw3j0G5ns5X2rWuU1BXRmoJ.jpg",
+         "original_language":"en",
+         "original_title":"Angel Has Fallen",
+         "genre_ids":[
+            28,
+            53
+         ],
+         "title":"Objetivo: Washington D.C.",
+         "vote_average":6.1,
+         "overview":"Después de un ataque traicionero, el agente del Servicio Secreto Mike Banning es acusado de intentar asesinar al Presidente Trumbull. Perseguido por sus propios colegas y por el FBI, Banning comienza una carrera contrarreloj para limpiar su nombre.",
+         "release_date":"2019-08-21"
+      },
+      {
+         "popularity":62.061,
+         "vote_count":4775,
+         "video":false,
+         "poster_path":"/yysmQpv26DdP79XtR3zsL3nVFbN.jpg",
+         "id":420818,
+         "adult":false,
+         "backdrop_path":"/nRXO2SnOA75OsWhNhXstHB8ZmI3.jpg",
+         "original_language":"en",
+         "original_title":"The Lion King",
+         "genre_ids":[
+            12,
+            10751
+         ],
+         "title":"El rey león",
+         "vote_average":7.1,
+         "overview":"Un remake del clásico animado de Disney de 1994 'El rey león' que estará dirigido por Jon Favreu. Simba (Donald Glover) es el hijo del rey de los leones, Mufasa, y heredero de todo el reino. Pero cuando su padre es brutalmente asesinado por su tío Scar, decidirá huir, dejando vía libre para que su tío tome el puesto de su padre como líder de la manada. En su camino, Simba se encuentra con el suricato  Timón y el jabalí Pumba, que le enseñarán a vivir la vida sin preocupaciones. Pero el joven león se verá obligado a decidir entre su vida libre de problemas o su destino como rey .",
+         "release_date":"2019-07-12"
+      },
+      {
+         "popularity":62.042,
+         "id":466282,
+         "video":false,
+         "vote_count":5584,
+         "vote_average":7.8,
+         "title":"A todos los chicos de los que me enamoré",
+         "release_date":"2018-08-16",
+         "original_language":"en",
+         "original_title":"To All the Boys I've Loved Before",
+         "genre_ids":[
+            35,
+            10749
+         ],
+         "backdrop_path":"/uZTtVdOEIwPA6vwVRI3217DoPM.jpg",
+         "adult":false,
+         "overview":"La joven Lara Jean Covey se ha dedicado durante toda su vida a escribir cartas a todos esos chicos con los que tuvo una relación fallida o ni siquiera consiguió tener algo. Todas esas cartas las guarda en una caja que solo ella conoce. Un día, todas esas misivas de amor (o desamor) son entregadas a los chicos a los que iban dirigidas misteriosamente. Ahora Lara tendrá que enfrentarse a sus amores pasados y a la reacción de ellos y de toda la gente de su alrededor que se entera.",
+         "poster_path":"/edspFefhqzR2jpqzV38duYjYKNC.jpg"
+      },
+      {
+         "popularity":61.533,
+         "vote_count":1,
+         "video":false,
+         "poster_path":"/lHTjD1oMKSroIhjl04HmnIDAP6D.jpg",
+         "id":673159,
+         "adult":false,
+         "backdrop_path":"/jOa7yCKRnbsz2uA4OBF76C2gqEf.jpg",
+         "original_language":"en",
+         "original_title":"Hooking Up",
+         "genre_ids":[
+            35,
+            18
+         ],
+         "title":"Hooking Up",
+         "vote_average":10,
+         "overview":"",
+         "release_date":"2020-03-20"
+      },
+      {
+         "popularity":58.78,
+         "vote_count":11888,
+         "video":false,
+         "poster_path":"/4A9KmccvMqJA8MQzIes0G9Uobh5.jpg",
+         "id":245891,
+         "adult":false,
+         "backdrop_path":"/iJlGxN0p1suzloBGvvBu3QSSlhT.jpg",
+         "original_language":"en",
+         "original_title":"John Wick",
+         "genre_ids":[
+            28,
+            53
+         ],
+         "title":"John Wick (Otro día para matar)",
+         "vote_average":7.2,
+         "overview":"John Wick es un antiguo asesino a sueldo de Nueva York que se había retirado de la profesión después de perder a su esposa. Pero, al descubrir la oscura trama que la mafia había planeado para acabar con él, arrebatándole lo que más quería, volverá a introducirse en el negocio, esta vez por su cuenta, para vengarse.",
+         "release_date":"2014-10-22"
+      },
+      {
+         "popularity":58.598,
+         "vote_count":2124,
+         "video":false,
+         "poster_path":"/eZOkXqHXWCKytd78TggAtJ0M3gU.jpg",
+         "id":420809,
+         "adult":false,
+         "backdrop_path":"/skvI4rYFrKXS73BJxWGH54Omlvv.jpg",
+         "original_language":"en",
+         "original_title":"Maleficent: Mistress of Evil",
+         "genre_ids":[
+            12,
+            14,
+            10751
+         ],
+         "title":"Maléfica: Maestra del mal",
+         "vote_average":7.2,
+         "overview":"Maléfica: Maestra del mal es una aventura de fantasía que se desarrolla varios años después de Maléfica. En esa película el público conoció por fin los acontecimientos que endurecieron el corazón de la villana más famosa de Disney y que la llevaron a maldecir a la recién nacida Princesa Aurora. Ahora, esta película sigue explorando la compleja relación entre el hada con cuernos y la que pronto será coronada Reina, cómo establecen nuevas alianzas y se enfrentan a nuevos adversarios en su lucha por proteger las tierras y a las criaturas mágicas que residen en ella.",
+         "release_date":"2019-10-16"
+      },
+      {
+         "popularity":58.522,
+         "vote_count":3035,
+         "video":false,
+         "poster_path":"/rdByKDkfyVuVSrkllzxKYXiZmTd.jpg",
+         "id":320288,
+         "adult":false,
+         "backdrop_path":"/cjRUhKyt2Jo3V1KNzc5tpPNfccG.jpg",
+         "original_language":"en",
+         "original_title":"Dark Phoenix",
+         "genre_ids":[
+            28,
+            12,
+            878
+         ],
+         "title":"X-Men: Fénix oscura",
+         "vote_average":6,
+         "overview":"Los X-Men se enfrentan a su enemigo más poderoso: uno de sus miembros, Jean Grey. Durante una misión de rescate en el espacio, Jean casi muere al ser alcanzada por una misteriosa fuerza cósmica. Cuando regresa a casa, esa radiación la ha hecho más poderosa, pero mucho más inestable. Mientras lucha con la entidad que habita en su interior, Jean desata sus poderes de formas que no puede controlar ni comprender. Jean cae en una espiral fuera de control haciendo daño a aquellos que más ama y empieza a destruir los lazos que mantienen unidos a los X-Men.",
+         "release_date":"2019-06-05"
+      },
+      {
+         "popularity":58.461,
+         "vote_count":1287,
+         "video":false,
+         "poster_path":"/xfDtjSEAhIbb1WKkYmNNNp5mhAe.jpg",
+         "id":501170,
+         "adult":false,
+         "backdrop_path":"/A1lvRqwbLz0PIs5QyivFVzCarc6.jpg",
+         "original_language":"en",
+         "original_title":"Doctor Sleep",
+         "genre_ids":[
+            18,
+            14,
+            27,
+            53
+         ],
+         "title":"Doctor Sueño",
+         "vote_average":7.1,
+         "overview":"Secuela del film de culto \"El resplandor\" (1980) dirigido por Stanley Kubrick y también basado en una famosa novela de Stephen King. La historia transcurre algunos años después de los acontecimientos de \"The Shining\", y sigue a Danny Torrance (Ewan McGregor), traumatizado y con problemas de ira y alcoholismo que hacen eco de los problemas de su padre Jack, que cuando sus habilidades psíquicas resurgen, se contacta con una niña de nombre Abra Stone, a quien debe rescatar de un grupo de viajeros que se alimentan de los niños que poseen el don de \"el resplandor\".",
+         "release_date":"2019-10-30"
+      },
+      {
+         "popularity":58.006,
+         "vote_count":2123,
+         "video":false,
+         "poster_path":"/bykSMP21J3RzX3YmYo6hlVH4UE6.jpg",
+         "id":559969,
+         "adult":false,
+         "backdrop_path":"/2GUcUDSGqQSyIxe7xDxnVTfWQgq.jpg",
+         "original_language":"en",
+         "original_title":"El Camino: A Breaking Bad Movie",
+         "genre_ids":[
+            28,
+            80,
+            18,
+            53
+         ],
+         "title":"El camino: una película de Breaking Bad",
+         "vote_average":6.9,
+         "overview":"Tiempo después de los eventos sucedidos tras el último episodio de la serie Breaking Bad, el fugitivo Jesse Pinkman huye de sus perseguidores, de la ley y de su pasado.",
+         "release_date":"2019-10-11"
+      },
+      {
+         "popularity":57.16,
+         "vote_count":3955,
+         "video":false,
+         "poster_path":"/yF1vPDuHVrAUMX5dy1tVMbAjkEL.jpg",
+         "id":301528,
+         "adult":false,
+         "backdrop_path":"/m67smI1IIMmYzCl9axvKNULVKLr.jpg",
+         "original_language":"en",
+         "original_title":"Toy Story 4",
+         "genre_ids":[
+            12,
+            16,
+            35,
+            14,
+            10751
+         ],
+         "title":"Toy Story 4",
+         "vote_average":7.6,
+         "overview":"Woody siempre ha tenido claro cuál es su labor en el mundo y cuál es su prioridad: cuidar a su dueño, ya sea Andy o Bonnie. Sin embargo, Woody descubrirá lo grande que puede ser el mundo para un juguete cuando Forky se convierta en su nuevo compañero de habitación. Los juguetes se embarcarán en una aventura de la que no se olvidarán jamás.",
+         "release_date":"2019-06-19"
+      },
+      {
+         "popularity":56.923,
+         "vote_count":464,
+         "video":false,
+         "poster_path":"/jYwCTKSmvAey3PDvrj7TCZuso5q.jpg",
+         "id":599975,
+         "adult":false,
+         "backdrop_path":"/zETkzgle7c6wAeW11snnVUBp67S.jpg",
+         "original_language":"en",
+         "original_title":"Countdown",
+         "genre_ids":[
+            27,
+            53
+         ],
+         "title":"Countdown: La hora de tu muerte",
+         "vote_average":6.3,
+         "overview":"Una enfermera descarga una app que informa al usuario de cuándo morirá. La app le comunica a la joven que fallecerá en tres días y, a partir de ese momento, empieza una carrera frenética por sobrevivir a lo que parece inevitable.",
+         "release_date":"2019-10-24"
+      },
+      {
+         "popularity":55.168,
+         "vote_count":16271,
+         "video":false,
+         "poster_path":"/ejmTPNAkgZaVJ4AI9zb9SehAYU0.jpg",
+         "id":603,
+         "adult":false,
+         "backdrop_path":"/icmmSD4vTTDKOq2vvdulafOGw93.jpg",
+         "original_language":"en",
+         "original_title":"The Matrix",
+         "genre_ids":[
+            28,
+            878
+         ],
+         "title":"Matrix",
+         "vote_average":8.1,
+         "overview":"Thomas Anderson lleva una doble vida: por el día es programador en una importante empresa de software, y por la noche un hacker informático llamado Neo. Su vida no volverá a ser igual cuando unos misteriosos personajes le inviten a descubrir la pregunta que no le deja dormir: ¿qué es Matrix?",
+         "release_date":"1999-03-30"
+      },
+      {
+         "popularity":54.798,
+         "vote_count":2759,
+         "video":false,
+         "poster_path":"/nU8PLLkOpYzfOyAE3yjrX8DviaM.jpg",
+         "id":384018,
+         "adult":false,
+         "backdrop_path":"/qAhedRxRYWZAgZ8O8pHIl6QHdD7.jpg",
+         "original_language":"en",
+         "original_title":"Fast & Furious Presents: Hobbs & Shaw",
+         "genre_ids":[
+            28,
+            12,
+            35
+         ],
+         "title":"Fast & Furious: Hobbs & Shaw",
+         "vote_average":6.6,
+         "overview":"Desde que Hobbs, agente del Servicio de Seguridad Diplomática de Estados Unidos, y el británico Shaw, proscrito sin ley, se enfrentaron por primera vez, solo han intercambiado bofetadas y malas palabras. Pero cuando las despiadadas acciones de Brixton, un anarquista cibergenéticamente mejorado, amenazan el futuro de la humanidad, ambos se unen para derrotarlo.",
+         "release_date":"2019-08-01"
+      },
+      {
+         "popularity":54.672,
+         "vote_count":40,
+         "video":false,
+         "poster_path":"/tnTPgrMonzC523J0GWHr7Iomnlp.jpg",
+         "id":158483,
+         "adult":false,
+         "backdrop_path":"/9NtWqAOOmDV9b4dVKNB5HmGlWnO.jpg",
+         "original_language":"ja",
+         "original_title":"めいとこねこバス",
+         "genre_ids":[
+            12,
+            16,
+            14
+         ],
+         "title":"Mei y el Gatobús",
+         "vote_average":7.2,
+         "overview":"Creado por Hayao Miyazaki, este cortometraje cuenta el viaje mágico de Mei Kusakabe y su amigo el Gatitobús, descendiente del Gatobús (de \"Mi vecino Totoro\"), volando por el bosque donde se celebra una gran reunión de espíritus, a la que llegan en gatobuses de todos los tamaños. Es allí donde Mei se reencuentra con un viejo amigo, Totoro. (FILMAFFINITY)",
+         "release_date":"2002-01-01"
+      },
+      {
+         "popularity":54.353,
+         "vote_count":4087,
+         "video":false,
+         "poster_path":"/aKw7oqYdfn4pkKYvp18Gd1YhK6m.jpg",
+         "id":458156,
+         "adult":false,
+         "backdrop_path":"/stemLQMLDrlpfIlZ5OjllOPT8QX.jpg",
+         "original_language":"en",
+         "original_title":"John Wick: Chapter 3 - Parabellum",
+         "genre_ids":[
+            28,
+            80,
+            53
+         ],
+         "title":"John Wick: Capítulo 3 - Parabellum",
+         "vote_average":7.1,
+         "overview":"John Wick (Keanu Reeves) regresa a la acción, solo que esta vez con una recompensa de 14 millones de dólares sobre su cabeza y con un ejército de mercenarios intentando darle caza. Tras asesinar a uno de los miembros del gremio de asesinos al que pertenecía, Wick es expulsado de la organización, pasando a convertirse en el centro de atención de multitud de asesinos a sueldo que esperan detrás de cada esquina para tratar de deshacerse de él.",
+         "release_date":"2019-05-15"
+      },
+      {
+         "popularity":53.722,
+         "vote_count":191,
+         "video":false,
+         "poster_path":"/2KlzkeqqmXaDdXo7D6pq7qQLJoM.jpg",
+         "id":481848,
+         "adult":false,
+         "backdrop_path":"/yFRpUmsreYO5Bc0HVBTsJsHIIox.jpg",
+         "original_language":"en",
+         "original_title":"The Call of the Wild",
+         "genre_ids":[
+            12,
+            18,
+            10751
+         ],
+         "title":"La llamada de lo salvaje",
+         "vote_average":6.1,
+         "overview":"Cuenta la historia de Buck, un perro bonachón cuya vida cambia de la noche a la mañana cuando su dueño se muda de California a los exóticos parajes de Alaska durante la Fiebre del Oro a finales del s. XIX. Como novato de un grupo perros de trineo (y posteriormente su líder), Buck experimenta una aventura que jamás olvidará, encontrando su lugar en el mundo y convirtiéndose así en su propio amo.",
+         "release_date":"2020-02-19"
+      },
+      {
+         "popularity":53.42,
+         "vote_count":8540,
+         "video":false,
+         "poster_path":"/d3p5JuwN7dG0TvrN5h4ZY4tMOEX.jpg",
+         "id":299537,
+         "adult":false,
+         "backdrop_path":"/nBS1vONGYrsL2C68C2oDQ3eKJR1.jpg",
+         "original_language":"en",
+         "original_title":"Captain Marvel",
+         "genre_ids":[
+            28,
+            12,
+            878
+         ],
+         "title":"Capitana Marvel",
+         "vote_average":7,
+         "overview":"La historia sigue a Carol Danvers mientras se convierte en uno de los héroes más poderosos del universo, cuando la Tierra se encuentra atrapada en medio de una guerra galáctica entre dos razas alienígenas. Situada en los años 90, 'Capitana Marvel' es una historia nueva de un período de tiempo nunca antes visto en la historia del Universo Cinematográfico de Marvel.",
+         "release_date":"2019-03-06"
+      },
+      {
+         "popularity":52.661,
+         "vote_count":4,
+         "video":false,
+         "poster_path":"/zw7MDRD7aek526rKLM04hAROGKy.jpg",
+         "id":571265,
+         "adult":false,
+         "backdrop_path":"/ApywEWLRVaHUY5QX5tUhErBD5m3.jpg",
+         "original_language":"ja",
+         "original_title":"デジモンアドベンチャー LAST EVOLUTION 絆",
+         "genre_ids":[
+            28,
+            12,
+            16,
+            53
+         ],
+         "title":"Digimon Adventure: Last Evolution Kizuna",
+         "vote_average":4.9,
+         "overview":"",
+         "release_date":"2020-02-21"
+      },
+      {
+         "popularity":52.569,
+         "vote_count":9392,
+         "video":false,
+         "poster_path":"/6OiNSLcRKJsBLXwb6DEi6IQ0JFk.jpg",
+         "id":122917,
+         "adult":false,
+         "backdrop_path":"/qhH3GyIfAnGv1pjdV3mw03qAilg.jpg",
+         "original_language":"en",
+         "original_title":"The Hobbit: The Battle of the Five Armies",
+         "genre_ids":[
+            28,
+            12,
+            14
+         ],
+         "title":"El Hobbit: La batalla de los cinco ejércitos",
+         "vote_average":7.3,
+         "overview":"Después de haber recuperado el reino del Dragón Smaug, la Compañía ha desencadenado, sin querer, una potencia maligna. Un Smaug enfurecido vuela hacia la Ciudad del Lago para acabar con cualquier resto de vida. Obsesionado sobre todo con el reino recuperado, Thorin sacrifica la amistad y el honor para mantenerlo mientras que Bilbo intenta frenéticamente hacerle ver la razón por la que el hobbit toma una decisión desesperada y peligrosa. Pero hay aún mayores peligros por delante. Sin la ayuda aparente del mago Gandalf, su gran enemigo Sauron ha enviado legiones de orcos hacia la Montaña Solitaria en un ataque furtivo. Cuando la oscuridad se cierna sobre ellos, las razas de los Enanos, Elfos y Hombres deben decidir si unirse o ser destruidos. Bilbo se encontrará así en la batalla épica de los Cinco Ejércitos, donde el futuro de la Tierra Media está en juego.",
+         "release_date":"2014-12-10"
+      },
+      {
+         "popularity":52.338,
+         "vote_count":3403,
+         "video":false,
+         "poster_path":"/9oERKIVyTWpHNum3STVsAGD4ojz.jpg",
+         "id":474350,
+         "adult":false,
+         "backdrop_path":"/8moTOzunF7p40oR5XhlDvJckOSW.jpg",
+         "original_language":"en",
+         "original_title":"It Chapter Two",
+         "genre_ids":[
+            18,
+            14,
+            27
+         ],
+         "title":"It: Capítulo 2",
+         "vote_average":6.8,
+         "overview":"Han pasado casi 30 años desde que el \"Club de los Perdedores\", formado por Bill, Beverly, Richie, Ben, Eddie, Mike y Stanley, se enfrentaran al macabro y despiadado Pennywise (Bill Skarsgård). En cuanto tuvieron oportunidad, abandonaron el pueblo de Derry, en el estado de Maine, que tantos problemas les había ocasionado. Sin embargo, ahora, siendo adultos, parece que no pueden escapar de su pasado. Todos deberán enfrentarse de nuevo al temible payaso para descubrir si de verdad están preparados para superar sus traumas de la infancia.",
+         "release_date":"2019-09-04"
+      },
+      {
+         "popularity":51.715,
+         "vote_count":37,
+         "video":false,
+         "poster_path":"/sI4StUppzQHzSU9QPiRUxOvQRvp.jpg",
+         "id":502425,
+         "adult":false,
+         "backdrop_path":"/kolkVKNZSjhZGHwcrFU36Watpke.jpg",
+         "original_language":"en",
+         "original_title":"Escape from Pretoria",
+         "genre_ids":[
+            53
+         ],
+         "title":"Escape from Pretoria",
+         "vote_average":6.6,
+         "overview":"Dos sudafricanos blancos, encarcelados por trabajar para el partido Congreso Nacional Africano, tratan de escapar de la prisión de 'Robben Island', en Pretoria.",
+         "release_date":"2020-03-06"
+      },
+      {
+         "popularity":51.509,
+         "vote_count":11751,
+         "video":false,
+         "poster_path":"/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+         "id":299534,
+         "adult":false,
+         "backdrop_path":"/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+         "original_language":"en",
+         "original_title":"Avengers: Endgame",
+         "genre_ids":[
+            28,
+            12,
+            878
+         ],
+         "title":"Vengadores: Endgame",
+         "vote_average":8.3,
+         "overview":"Después de los eventos devastadores de 'Vengadores: Infinity War', el universo está en ruinas debido a las acciones de Thanos. Con la ayuda de los aliados que quedaron, los Vengadores deberán reunirse una vez más para intentar deshacer sus acciones y restaurar el orden en el universo de una vez por todas, sin importar cuáles sean las consecuencias... Cuarta y última entrega de la saga \"Vengadores\".",
+         "release_date":"2019-04-24"
+      },
+      {
+         "popularity":51.476,
+         "vote_count":7825,
+         "video":false,
+         "poster_path":"/cOt8SQwrxpoTv9Bc3kyce3etkZX.jpg",
+         "id":335984,
+         "adult":false,
+         "backdrop_path":"/8QXGNP0Vb4nsYKub59XpAhiUSQN.jpg",
+         "original_language":"en",
+         "original_title":"Blade Runner 2049",
+         "genre_ids":[
+            18,
+            878
+         ],
+         "title":"Blade Runner 2049",
+         "vote_average":7.4,
+         "overview":"Han pasado 30 años desde los acontecimientos ocurridos en Blade Runner (1982). El oficial K, un blade runner caza-replicantes del Departamento de Policía de Los Ángeles, descubre un secreto que ha estado enterrado durante mucho tiempo y que tiene el potencial de llevar a la sociedad al caos. Su investigación le conducirá a la búsqueda del legendario Rick Deckard, un antiguo blade runner en paradero desconocido, que lleva desaparecido 30 años.",
+         "release_date":"2017-10-04"
+      },
+      {
+         "popularity":51.473,
+         "vote_count":13462,
+         "video":false,
+         "poster_path":"/bhCfAzeMMg7GyLDT11yVM2i1NPh.jpg",
+         "id":672,
+         "adult":false,
+         "backdrop_path":"/avqzwKn89VetTEvAlBePt3Us6Al.jpg",
+         "original_language":"en",
+         "original_title":"Harry Potter and the Chamber of Secrets",
+         "genre_ids":[
+            12,
+            14
+         ],
+         "title":"Harry Potter y la cámara secreta",
+         "vote_average":7.7,
+         "overview":"Harry regresa a su segundo año a Hogwarts, pero descubre que cosas malas ocurren debido a que un sitio llamado la Cámara de los Secretos ha sido abierto por el heredero de Slytherin y hará que los hijos de muggles, los impuros, aparezcan petrificados misteriosamente por un animal monstruoso.",
+         "release_date":"2002-11-13"
+      },
+      {
+         "popularity":51.194,
+         "vote_count":155,
+         "video":false,
+         "poster_path":"/nmRdVrAy9icP0NWsSjwBUgvlu21.jpg",
+         "id":393624,
+         "adult":false,
+         "backdrop_path":"/wONHmd6x0UW6AV1DLzxlNwH9sQn.jpg",
+         "original_language":"en",
+         "original_title":"Official Secrets",
+         "genre_ids":[
+            80,
+            18,
+            36,
+            53,
+            10749,
+            10752
+         ],
+         "title":"Secretos de Estado",
+         "vote_average":7.3,
+         "overview":"Katharine Gun (Knightley) es una denunciante del Servicio de Inteligencia Británica que, justo después de que se anunciase la invasión de Iraq en 2003, filtró un documento secreto de la NSA. En él se especificaba una misión de espionaje cooperativa entre Estados Unidos y Reino Unido para investigar a los miembros del Consejo de Seguridad de las Naciones Unidas.",
+         "release_date":"2019-08-30"
+      },
+      {
+         "popularity":50.77,
+         "id":71805,
+         "video":false,
+         "vote_count":26,
+         "vote_average":6.7,
+         "title":"Håkon Håkonsen",
+         "release_date":"1990-10-03",
+         "original_language":"no",
+         "original_title":"Håkon Håkonsen",
+         "genre_ids":[
+            12,
+            10751
+         ],
+         "backdrop_path":null,
+         "adult":false,
+         "overview":"",
+         "poster_path":"/c2Y98cm9Y4Sr9zMzk7k1XW1Zzxi.jpg"
+      },
+      {
+         "popularity":50.528,
+         "vote_count":13849,
+         "video":false,
+         "poster_path":"/8zHnkTGyAImBcI49a1xFJHUjbaK.jpg",
+         "id":22,
+         "adult":false,
+         "backdrop_path":"/8AUQ7YlJJA9C8kWk8P4YNHIcFDE.jpg",
+         "original_language":"en",
+         "original_title":"Pirates of the Caribbean: The Curse of the Black Pearl",
+         "genre_ids":[
+            28,
+            12,
+            14
+         ],
+         "title":"Piratas del Caribe. La maldición de la Perla Negra",
+         "vote_average":7.7,
+         "overview":"El aventurero Capitán Jack Sparrow recorre las aguas caribeñas. Pero su andanzas terminan cuando su enemigo, el Capitán Barbossa le roba su barco, la Perla Negra, y ataca la ciudad de Port Royal, secuestrando a Elizabeth Swann, hija del Gobernador. Will Turner, el amigo de la infancia de Elizabeth, se une a Jack para rescatarla y recuperar la Perla Negra. Pero el prometido de Elizabeth, Comodoro Norrington, les persigue a bordo del HMS Impávido. Además, Barbossa y su tripulación son víctimas de un conjuro por el que están condenados a vivir eternamente, y a transformarse cada noche en esqueletos vivientes, en fantasmas guerreros.",
+         "release_date":"2003-07-09"
+      },
+      {
+         "popularity":50.168,
+         "vote_count":16228,
+         "video":false,
+         "poster_path":"/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
+         "id":120,
+         "adult":false,
+         "backdrop_path":"/pIUvQ9Ed35wlWhY2oU6OmwEsmzG.jpg",
+         "original_language":"en",
+         "original_title":"The Lord of the Rings: The Fellowship of the Ring",
+         "genre_ids":[
+            28,
+            12,
+            14
+         ],
+         "title":"El señor de los anillos: La comunidad del anillo",
+         "vote_average":8.3,
+         "overview":"En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media.",
+         "release_date":"2001-12-18"
+      },
+      {
+         "popularity":49.776,
+         "vote_count":16,
+         "video":false,
+         "poster_path":"/kv78WJ2YvWyk3c32sbOGFh64xcs.jpg",
+         "id":510298,
+         "adult":false,
+         "backdrop_path":"/cdMfn0Jr9RGqKkaX9HyR5l1kiYy.jpg",
+         "original_language":"en",
+         "original_title":"Seberg",
+         "genre_ids":[
+            18,
+            53
+         ],
+         "title":"Seberg",
+         "vote_average":6.4,
+         "overview":"Basada en hechos reales. Kirsten Stewart dará vida a la actriz Jean Seberg, víctima de un programa ilegal de vigilancia del FBI, llamado COINTELPRO. Todo ello ociurrió después de que la actriz diera apoyo al Partido Pantera Negra en los años 60. Fue toda una campaña para desacreditar a la actriz, que también incluyó el rumor de que estaba embarazada de un miembro del partido y no de su marido, una década después.",
+         "release_date":"2019-12-13"
+      },
+      {
+         "popularity":49.654,
+         "vote_count":50,
+         "video":false,
+         "poster_path":"/9yXQF4cNjLlP06r4UCEShpEXvmb.jpg",
+         "id":382748,
+         "adult":false,
+         "backdrop_path":"/7kcezJ56DPdajWucWxHgId3WE01.jpg",
+         "original_language":"en",
+         "original_title":"Stargirl",
+         "genre_ids":[
+            35,
+            18,
+            10749
+         ],
+         "title":"Stargirl",
+         "vote_average":7.7,
+         "overview":"Una extravagante adolescente pone patas arriba el instituto de Arizona cuando comienza en él su primer año.",
+         "release_date":"2020-03-10"
+      },
+      {
+         "popularity":49.517,
+         "vote_count":14478,
+         "video":false,
+         "poster_path":"/8TjvIO8ZJPKrMKXEjOVGNSzuO6q.jpg",
+         "id":284054,
+         "adult":false,
+         "backdrop_path":"/6ELJEzQJ3Y45HczvreC3dg0GV5R.jpg",
+         "original_language":"en",
+         "original_title":"Black Panther",
+         "genre_ids":[
+            28,
+            12,
+            14,
+            878
+         ],
+         "title":"Black Panther",
+         "vote_average":7.4,
+         "overview":"\"Black Panther\" cuenta la historia de T'Challa quien, después de los acontecimientos de \"Capitán América: Civil War\", vuelve a casa, a la nación de Wakanda, aislada y muy avanzada tecnológicamente, para ser proclamado Rey. Pero la reaparición de un viejo enemigo pone a prueba el temple de T'Challa como Rey y Black Panther ya que se ve arrastrado a un conflicto que pone en peligro todo el destino de Wakanda y del mundo.",
+         "release_date":"2018-02-13"
+      },
+      {
+         "popularity":49.103,
+         "vote_count":21301,
+         "video":false,
+         "poster_path":"/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg",
+         "id":155,
+         "adult":false,
+         "backdrop_path":"/hqkIcbrOHL86UncnHIsHVcVmzue.jpg",
+         "original_language":"en",
+         "original_title":"The Dark Knight",
+         "genre_ids":[
+            28,
+            80,
+            18,
+            53
+         ],
+         "title":"El caballero oscuro",
+         "vote_average":8.4,
+         "overview":"Batman/Bruce Wayne regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon y del Fiscal del Distrito Harvey Dent, Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker, un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos.",
+         "release_date":"2008-07-16"
+      },
+      {
+         "popularity":48.745,
+         "vote_count":11089,
+         "video":false,
+         "poster_path":"/fxbptfH5VibUyjm0He3lujT6j6q.jpg",
+         "id":131631,
+         "adult":false,
+         "backdrop_path":"/4PwyB0ErucIANzW24Kori71J6gU.jpg",
+         "original_language":"en",
+         "original_title":"The Hunger Games: Mockingjay - Part 1",
+         "genre_ids":[
+            12,
+            878,
+            53
+         ],
+         "title":"Los juegos del hambre: Sinsajo. Parte 1",
+         "vote_average":6.8,
+         "overview":"Katniss Everdeen se encuentra en el Distrito 13 después de destrozar los Juegos para siempre. Bajo el liderazgo de la comandante Coin y el consejo de sus amigos más leales, Katniss extiende sus alas mientras lucha por salvar a Peeta Mellark y a una nación alentada por su valentía... Tercera y última entrega de la saga literaria \"Los juegos del hambre\" de Suzanne Collins, que se divide en dos películas.",
+         "release_date":"2014-11-18"
+      },
+      {
+         "popularity":48.669,
+         "vote_count":1331,
+         "video":false,
+         "poster_path":"/ek3NThY7R8OysOuKZrEy7CRl1co.jpg",
+         "id":473033,
+         "adult":false,
+         "backdrop_path":"/5qTZGBHJNq6riBliYtOnH4yUN6x.jpg",
+         "original_language":"en",
+         "original_title":"Uncut Gems",
+         "genre_ids":[
+            35,
+            80,
+            18,
+            53
+         ],
+         "title":"Diamantes en bruto",
+         "vote_average":7.2,
+         "overview":"Howard Ratner es el propietario de una joyería ubicada en el barrio de los diamantes de la ciudad de Nueva York que vende en exclusiva a ricos y famosos. Un día se produce un importante robo que le obliga a tener que afrontar una deuda económica que no está preparado para pagar.",
+         "release_date":"2019-11-14"
+      },
+      {
+         "popularity":48.634,
+         "vote_count":21716,
+         "video":false,
+         "poster_path":"/rPyWt7IPREDWnE1U8V9iMFzeh0p.jpg",
+         "id":24428,
+         "adult":false,
+         "backdrop_path":"/hbn46fQaRmlpBuUrEiFqv0GDL6Y.jpg",
+         "original_language":"en",
+         "original_title":"The Avengers",
+         "genre_ids":[
+            28,
+            12,
+            878
+         ],
+         "title":"Los Vengadores",
+         "vote_average":7.7,
+         "overview":"Cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, Nick Fury, director de la Agencia SHIELD, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro. Adaptación del cómic de Marvel \"Los Vengadores\", el legendario grupo de superhéroes formado por Ironman, Hulk, Thor y el Capitán América entre otros.",
+         "release_date":"2012-04-25"
+      },
+      {
+         "popularity":48.287,
+         "vote_count":6299,
+         "video":false,
+         "poster_path":"/v5F94xCSBrSDorvOQNHU4sqAcqZ.jpg",
+         "id":392044,
+         "adult":false,
+         "backdrop_path":"/2J283YNxKhxAqHeVegUJ5mzLfGb.jpg",
+         "original_language":"en",
+         "original_title":"Murder on the Orient Express",
+         "genre_ids":[
+            80,
+            18,
+            9648
+         ],
+         "title":"Asesinato en el Orient Express",
+         "vote_average":6.7,
+         "overview":"Durante un viaje en el legendario tren Orient Express, el detective belga Hercules Poirot investiga un asesinato cometido en el trayecto, y a resultas del cual todos los pasajeros del tren son sospechosos del mismo.",
+         "release_date":"2017-11-03"
+      },
+      {
+         "popularity":47.981,
+         "vote_count":1099,
+         "video":false,
+         "poster_path":"/3ad2TUhn53ANqqlRNTsNzmlWplL.jpg",
+         "id":6950,
+         "adult":false,
+         "backdrop_path":"/wrlZRyyOnD24KQzo3OVi4lWyqdF.jpg",
+         "original_language":"en",
+         "original_title":"Outbreak",
+         "genre_ids":[
+            28,
+            18,
+            878,
+            53
+         ],
+         "title":"Estallido",
+         "vote_average":6.5,
+         "overview":"El ejército de los Estados Unidos arrasa un campamento del Zaire en el que un virus mortal semejante al ébola estaba acabando con la población. Lo que se pretendía con esta medida era mantener el virus en secreto y, al mismo tiempo, impedir que se propagase. Lo que no estaba previsto era que un pequeño mono, portador del peligroso virus, viajara en un barco desde el Zaire a EE.UU. El pánico se desata cuando se descubre que todos los que que han estado en contacto con el simio empiezan a mostrar los primeros síntomas de la enfermedad.",
+         "release_date":"1995-03-10"
+      },
+      {
+         "popularity":47.822,
+         "vote_count":13951,
+         "video":false,
+         "poster_path":"/mtZ36iNsrxtHnx0mLWotdxfsW5U.jpg",
+         "id":140607,
+         "adult":false,
+         "backdrop_path":"/c2Ax8Rox5g6CneChwy1gmu4UbSb.jpg",
+         "original_language":"en",
+         "original_title":"Star Wars: The Force Awakens",
+         "genre_ids":[
+            28,
+            12,
+            14,
+            878
+         ],
+         "title":"Star Wars: El despertar de la fuerza",
+         "vote_average":7.4,
+         "overview":"Treinta años después de la victoria de la Alianza Rebelde sobre la segunda Estrella de la Muerte (hechos narrados en el Episodio VI: El retorno del Jedi), la galaxia está todavía en guerra. Una nueva República se ha constituido, pero una siniestra organización, la Primera Orden, ha resurgido de las cenizas del Imperio Galáctico. A los héroes de antaño, que luchan ahora en la Resistencia, se suman nuevos héroes: Poe Dameron, un piloto de caza, Finn, un desertor de la Primera Orden, Rey, una joven chatarrera, y BB-8, un androide rodante. Todos ellos luchan contra las fuerzas del Mal: el Capitán Phasma, de la Primera Orden, y Kylo Ren, un temible y misterioso personaje que empuña un sable de luz roja.",
+         "release_date":"2015-12-15"
+      },
+      {
+         "popularity":47.693,
+         "vote_count":13075,
+         "video":false,
+         "poster_path":"/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg",
+         "id":12445,
+         "adult":false,
+         "backdrop_path":"/n5A7brJCjejceZmHyujwUTVgQNC.jpg",
+         "original_language":"en",
+         "original_title":"Harry Potter and the Deathly Hallows: Part 2",
+         "genre_ids":[
+            12,
+            14
+         ],
+         "title":"Harry Potter y las Reliquias de la Muerte - Parte 2",
+         "vote_average":8.1,
+         "overview":"La segunda parte de la batalla final entre las fuerzas del bien y el mal. El juego nunca ha sido tan peligroso y nadie está a salvo. Se acerca el momento de la confrontación final entre Harry Potter y Lord Voldemort. Todo termina aquí…",
+         "release_date":"2011-07-07"
+      },
+      {
+         "popularity":47.084,
+         "vote_count":111,
+         "video":false,
+         "poster_path":"/2kNnf7BwRCEm4bcFkdiE0T4U25s.jpg",
+         "id":457335,
+         "adult":false,
+         "backdrop_path":"/gL7TV2g9y9p3v7occ5bLrJ2p1qs.jpg",
+         "original_language":"en",
+         "original_title":"Guns Akimbo",
+         "genre_ids":[
+            28,
+            35
+         ],
+         "title":"Guns Akimbo",
+         "vote_average":6.5,
+         "overview":"Miles (Daniel Radcliffe) se siente atascado en la vida: su trabajo no tiene futuro y sigue enamorado de su exnovia Nova. Un día descubre que un grupo de mafiosos llamado \"Skizm\" planea celebrar una peligrosa competición que reúne a extraños de distintos puntos de la ciudad con el propósito de comprobar cuál de ellos logra una mayor cantidad de espectadores online. Aunque al principio tiene dudas, pronto descubre que Nora ha sido secuestrada por Nix, un grupo armado que participa en el concurso, por lo que Miles decide dejar atrás sus miedos para participar en el torneo.",
+         "release_date":"2020-02-27"
+      },
+      {
+         "popularity":46.971,
+         "vote_count":2172,
+         "video":false,
+         "poster_path":"/yQ59NPwzHE2XlYwU2VwHF9Wb0IJ.jpg",
+         "id":373571,
+         "adult":false,
+         "backdrop_path":"/cNt14e43I2DDW6Xd9zFhrP8eOcA.jpg",
+         "original_language":"en",
+         "original_title":"Godzilla: King of the Monsters",
+         "genre_ids":[
+            28,
+            878
+         ],
+         "title":"Godzilla: Rey de los Monstruos",
+         "vote_average":6.2,
+         "overview":"Los criptozoólogos de la agencia Monarch se enfrentan a un grupo de enormes monstruos: Godzilla, Mothra, Rodan y el enemigo de la humanidad, King Ghidorah. Estas ancianas criaturas harán todo lo posible por sobrevivir, poniendo en riesgo la existencia del ser humano en el planeta.",
+         "release_date":"2019-05-29"
+      },
+      {
+         "popularity":46.876,
+         "vote_count":3,
+         "video":false,
+         "poster_path":"/j9vEMgw1Y7nG6gO1Zf516eAbVe5.jpg",
+         "id":587853,
+         "adult":false,
+         "backdrop_path":"/oKRxXFIND4GMNsjsTYdxKW67Mrk.jpg",
+         "original_language":"id",
+         "original_title":"Upin & Ipin: Keris Siamang Tunggal",
+         "genre_ids":[
+
+         ],
+         "title":"Upin & Ipin: Keris Siamang Tunggal",
+         "vote_average":6.3,
+         "overview":"",
+         "release_date":"2019-05-09"
+      },
+      {
+         "popularity":46.769,
+         "vote_count":142,
+         "video":false,
+         "poster_path":"/AeGV3f9fpXBpufUx0l1SUwWDSt4.jpg",
+         "id":618355,
+         "adult":false,
+         "backdrop_path":"/uehwVV9xuALZ2SXeHGiX4Ay5dR7.jpg",
+         "original_language":"en",
+         "original_title":"Superman: Red Son",
+         "genre_ids":[
+            28,
+            16,
+            878
+         ],
+         "title":"Superman: Hijo Rojo",
+         "vote_average":7.3,
+         "overview":"Ambientada en la Guerra Fría, Red Son nos presenta a un Superman que aterrizó en la URSS durante la década de 1950 y crece para convertirse en un símbolo soviético que lucha por la preservación de la marca del comunismo de Stalin.",
+         "release_date":"2020-02-25"
+      },
+      {
+         "popularity":46.657,
+         "vote_count":4448,
+         "video":false,
+         "poster_path":"/quWP5VIzTUf0Hr8AJZLloM6js8I.jpg",
+         "id":399579,
+         "adult":false,
+         "backdrop_path":"/8RKBHHRqOMOLh5qW3sS6TSFTd8h.jpg",
+         "original_language":"en",
+         "original_title":"Alita: Battle Angel",
+         "genre_ids":[
+            28,
+            12,
+            878
+         ],
+         "title":"Alita: Ángel de combate",
+         "vote_average":6.9,
+         "overview":"Ido, un compasivo médico de cíborgs, encuentra a Alita abandonada en el desguace de Iron City. Cuando Alita despierta, no sabe quién es, ni reconoce el mundo en el que se encuentra, todo es nuevo para ella. Ido intentará proteger a Alita de su misterioso pasado, mientras que su nuevo amigo Hugo le ayudará a despertar sus recuerdos. En ese momento, Alita descubre que posee habilidades de combate extraordinarias, que podría usar para salvar a su nueva familia y amigos. Decidida a encontrar la verdad tras sus orígenes, Alita comienza un viaje que le enfrentará a las injusticias de un mundo oscuro y corrupto, descubriendo que sólo ella puede cambiarlo.",
+         "release_date":"2019-01-31"
+      },
+      {
+         "popularity":46.442,
+         "vote_count":13262,
+         "video":false,
+         "poster_path":"/sgVe7blGP5P71STv2TBXmO86qPo.jpg",
+         "id":284053,
+         "adult":false,
+         "backdrop_path":"/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg",
+         "original_language":"en",
+         "original_title":"Thor: Ragnarok",
+         "genre_ids":[
+            28,
+            12,
+            35,
+            14
+         ],
+         "title":"Thor: Ragnarok",
+         "vote_average":7.5,
+         "overview":"Thor está preso al otro lado del universo sin su poderoso martillo y se enfrenta a una carrera contra el tiempo. Su objetivo es volver a Asgard y parar el Ragnarok porque significaría la destrucción de su planeta natal y el fin de la civilización Asgardiana a manos de una todopoderosa y nueva amenaza, la implacable Hela. Pero, primero deberá sobrevivir a una competición letal de gladiadores que lo enfrentará a su aliado y compañero en los Vengadores, ¡el Increíble Hulk!",
+         "release_date":"2017-10-25"
+      },
+      {
+         "popularity":45.995,
+         "vote_count":546,
+         "video":false,
+         "poster_path":"/yjg66Z7STW2TUaFJ3l555xPrzwF.jpg",
+         "id":292011,
+         "adult":false,
+         "backdrop_path":"/zAfG4ZmpNfKSyr8MVn1CHjgYYXx.jpg",
+         "original_language":"en",
+         "original_title":"Richard Jewell",
+         "genre_ids":[
+            18
+         ],
+         "title":"Richard Jewell",
+         "vote_average":7.5,
+         "overview":"Richard Jewell era un guardia de seguridad en los Juegos Olímpicos de Atlanta 1996, el cual descubrió una mochila con explosivos en su interior y evitó un número mayor de víctimas al ayudar a evacuar el área poco antes de que se produjera el estallido. En un principio se le presentó como un héroe cuya intervención salvó vidas, pero posteriormente Jewell pasó a ser considerado el sospechoso número uno y fue investigado como presunto culpable.",
+         "release_date":"2019-12-13"
+      },
+      {
+         "popularity":45.925,
+         "vote_count":15234,
+         "video":false,
+         "poster_path":"/dc1fX265fZIIY5Hab8I7CdETyJy.jpg",
+         "id":278,
+         "adult":false,
+         "backdrop_path":"/65nAfGikljrOkfIrcfmrNTJTAXF.jpg",
+         "original_language":"en",
+         "original_title":"The Shawshank Redemption",
+         "genre_ids":[
+            80,
+            18
+         ],
+         "title":"Cadena perpetua",
+         "vote_average":8.7,
+         "overview":"Acusado del asesinato de su mujer, Andrew Dufresne, tras ser condenado a cadena perpetua, es enviado a la prisión de Shawshank. Con el paso de los años conseguirá ganarse la confianza del director del centro y el respeto de sus compañeros presidiarios, especialmente de Red, el jefe de la mafia de los sobornos.",
+         "release_date":"1994-09-23"
+      },
+      {
+         "popularity":45.806,
+         "vote_count":2911,
+         "video":false,
+         "poster_path":"/sNilmIAwBbH0DmBOWBS6gWvNDex.jpg",
+         "id":398978,
+         "adult":false,
+         "backdrop_path":"/iLLDiO4dbUfFEnRug8DuvFEl1NB.jpg",
+         "original_language":"en",
+         "original_title":"The Irishman",
+         "genre_ids":[
+            80,
+            18,
+            36
+         ],
+         "title":"El irlandés",
+         "vote_average":7.8,
+         "overview":"Pennsylvania, 1956. Frank Sheeran, un veterano de guerra de origen irlandés que trabaja como camionero, conoce accidentalmente al mafioso Russell Bufalino. Una vez convertido en su hombre de confianza, Bufalino envía a Frank a Chicago con el encargo de ayudar a Jimmy Hoffa, un poderoso líder sindical relacionado con el crimen organizado, con quien Frank mantendrá una estrecha amistad durante casi veinte años.",
+         "release_date":"2019-11-01"
+      }
+   ]
+}
