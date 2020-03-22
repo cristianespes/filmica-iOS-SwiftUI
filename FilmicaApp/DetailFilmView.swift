@@ -36,7 +36,7 @@ struct DetailFilmView: View {
                 Text("\(film.overview)")
                     .font(.body)
                     .lineLimit(nil)
-                Spacer()
+                    .fixedSize(horizontal: false, vertical: true)
             }.padding(16)
         }
         .navigationBarItems(trailing:

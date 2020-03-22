@@ -23,7 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		198EE1FC2427829500D71C1B /* FilmicaApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FilmicaApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		198EE1FC2427829500D71C1B /* Filmica.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Filmica.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		198EE1FF2427829500D71C1B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		198EE2012427829500D71C1B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		198EE2032427829500D71C1B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -62,7 +62,7 @@
 		198EE1FD2427829500D71C1B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				198EE1FC2427829500D71C1B /* FilmicaApp.app */,
+				198EE1FC2427829500D71C1B /* Filmica.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -121,7 +121,7 @@
 			);
 			name = FilmicaApp;
 			productName = FilmicaApp;
-			productReference = 198EE1FC2427829500D71C1B /* FilmicaApp.app */;
+			productReference = 198EE1FC2427829500D71C1B /* Filmica.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -325,12 +325,13 @@
 				DEVELOPMENT_TEAM = PMY79A3SW7;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = FilmicaApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.celapps.FilmicaApp;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Filmica;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -345,12 +346,13 @@
 				DEVELOPMENT_TEAM = PMY79A3SW7;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = FilmicaApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.celapps.FilmicaApp;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Filmica;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
