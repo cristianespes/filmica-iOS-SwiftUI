@@ -34,7 +34,10 @@ struct FavoritesView: View {
     
     private func deleteFavorite(offset: IndexSet) {
         if let first = offset.first {
-            filmsData.films[first].isFavorite.toggle()
+            let favorite = filmsData.films.filter({ $0.isFavorite })[first]
+            if let index = filmsData.films.firstIndex(where: { $0.id == favorite.id }) {
+                filmsData.films[index].isFavorite.toggle()
+            }
         }
     }
 }
