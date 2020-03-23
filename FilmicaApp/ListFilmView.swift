@@ -28,5 +28,6 @@ struct ListFilmView: View {
 struct ListFilmView_Previews: PreviewProvider {
     static var previews: some View {
         ListFilmView()
+            .environmentObject(FilmsData())
     }
 }
