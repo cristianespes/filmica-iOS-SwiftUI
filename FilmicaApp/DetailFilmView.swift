@@ -37,7 +37,9 @@ struct DetailFilmView: View {
                     .font(.body)
                     .lineLimit(nil)
                     .fixedSize(horizontal: false, vertical: true)
-            }.padding(16)
+            }
+            .padding(16)
+            .padding(.bottom, 40)
         }
         .navigationBarItems(trailing:
             Button(action: {
