@@ -13,15 +13,22 @@ struct FavoritesView: View {
     
     var body: some View {
         NavigationView {
-            List {
-                ForEach(filmsData.films.filter({$0.isFavorite})) { film in
-                    NavigationLink(destination: DetailFilmView(film: film).navigationBarTitle("\(film.title)", displayMode: .inline)) {
-                        FilmRowView(film: film)
+            if filmsData.films.filter({ $0.isFavorite }).isEmpty {
+                Text("Todavía no tiene películas favoritas")
+                    .foregroundColor(Color.gray)
+                    .padding()
+                    .navigationBarTitle("Favoritas")
+            } else {
+                List {
+                    ForEach(filmsData.films.filter({$0.isFavorite})) { film in
+                        NavigationLink(destination: DetailFilmView(film: film).navigationBarTitle("\(film.title)", displayMode: .inline)) {
+                            FilmRowView(film: film)
+                        }
                     }
+                    .onDelete(perform: deleteFavorite)
                 }
-                .onDelete(perform: deleteFavorite)
+                .navigationBarTitle("Favoritas")
             }
-            .navigationBarTitle("Favoritas")
         }
     }
     
