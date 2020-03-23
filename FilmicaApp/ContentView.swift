@@ -16,13 +16,13 @@ struct ContentView: View {
         TabView(selection: $selectedTab) {
             ListFilmView()
                 .tabItem {
-                    Image(systemName: "film")
+                    Image(systemName: selectedTab == 0 ? "film.fill" : "film")
                     Text("Películas")
                 }
                 .tag(0)
             FavoritesView()
                 .tabItem {
-                    Image(systemName: "star")
+                    Image(systemName: selectedTab == 1 ? "star.fill" : "star")
                     Text("Favoritas")
                 }
                 .tag(1)
