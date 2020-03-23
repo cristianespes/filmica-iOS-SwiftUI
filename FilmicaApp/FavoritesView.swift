@@ -19,8 +19,15 @@ struct FavoritesView: View {
                         FilmRowView(film: film)
                     }
                 }
+                .onDelete(perform: deleteFavorite)
             }
             .navigationBarTitle("Favoritas")
+        }
+    }
+    
+    private func deleteFavorite(offset: IndexSet) {
+        if let first = offset.first {
+            filmsData.films[first].isFavorite.toggle()
         }
     }
 }
