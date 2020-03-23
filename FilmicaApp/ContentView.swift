@@ -9,8 +9,8 @@
 import SwiftUI
 
 struct ContentView: View {
-    @EnvironmentObject var filmsData: FilmsData
-    @State var selectedTab = 0
+    @EnvironmentObject private var filmsData: FilmsData
+    @State private var selectedTab = 0
     
     var body: some View {
         TabView(selection: $selectedTab) {

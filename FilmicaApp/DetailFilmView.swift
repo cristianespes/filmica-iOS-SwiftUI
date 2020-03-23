@@ -9,8 +9,8 @@
 import SwiftUI
 
 struct DetailFilmView: View {
-    @EnvironmentObject var filmsData: FilmsData
-    @State var isFavorite: Bool = false
+    @EnvironmentObject private var filmsData: FilmsData
+    @State private var isFavorite: Bool = false
     let film: Film
     
     private let dateFormatter: DateFormatter = {

@@ -9,7 +9,7 @@
 import SwiftUI
 
 struct ListFilmView: View {
-    @EnvironmentObject var filmsData: FilmsData
+    @EnvironmentObject private var filmsData: FilmsData
     
     var body: some View {
         NavigationView {

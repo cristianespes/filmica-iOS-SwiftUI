@@ -9,12 +9,12 @@
 import SwiftUI
 
 struct FavoritesView: View {
-    @EnvironmentObject var filmsData: FilmsData
+    @EnvironmentObject private var filmsData: FilmsData
     
     var body: some View {
         NavigationView {
             if filmsData.films.filter({ $0.isFavorite }).isEmpty {
-                Text("Todavía no tiene películas favoritas")
+                Text("No tiene películas favoritas")
                     .foregroundColor(Color.gray)
                     .padding()
                     .navigationBarTitle("Favoritas")
